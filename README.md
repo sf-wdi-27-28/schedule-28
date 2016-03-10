@@ -1,6 +1,6 @@
 # WDI SF 28
 
-How To: [Submit Homework](/how-tos/homework-submission.md) ● [Request a Code Review](/how-tos/request-a-code-review.md)
+How To: [Submit Homework](/how-to/homework-submission.md) ● [Request a Code Review](/how-to/request-a-code-review.md)
 <!--
 ## Week 12  - Topic
 <table>
