@@ -1,6 +1,6 @@
 # WDI SF 28
 
-How To: [Submit Homework](/how-to/homework-submission.md) ● [Request a Code Review](/how-to/request-a-code-review.md)
+How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-to/homework-submission.md" target="blank">Submit Homework</a> ● <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-to/request-a-code-review.md" target="blank">Request a Code Review</a>
 
 
 ## Daily Schedule Overview
