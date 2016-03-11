@@ -2,6 +2,25 @@
 
 How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-to/homework-submission.md" target="blank">Submit Homework</a> ● <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-to/request-a-code-review.md" target="blank">Request a Code Review</a>
 
+<!-- Week template -->
+<!-- ## Week 1 - Front End Basics
+
+|  | Monday | Tuesday | Wednesday | Thursday | Friday |
+| :----------: | :----------: | :----------: | :----------: | :----------: | :----------: |
+| **Drills** | [title](link) (name) | [title](link) (name) | [title](link) (name) | [title](link) (name) | [title](link) (name) |
+| **Module 1** | [title](link) (name) | [title](link) (name) | [title](link) (name) | [title](link) (name) | [title](link) (name) |
+| **Module 2** | [title](link) (name) | [title](link) (name) | [title](link) (name) | [title](link) (name) | [title](link) (name) |
+| **Evening Homework** | [title](link) | [title](link) | [title](link) | [title](link) | [title](link) | -->
+
+## Week 1 - Front End Basics
+
+|  | Monday | Tuesday | Wednesday | Thursday | Friday |
+| :----------: | :----------: | :----------: | :----------: | :----------: | :----------: |
+| **Drills** | [title](link) (name) | [title](link) (name) | [title](link) (name) | [title](link) (name) | [title](link) (name) |
+| **Module 1** | [title](link) (name) | [title](link) (name) | [title](link) (name) | [title](link) (name) | [title](link) (name) |
+| **Module 2** | [title](link) (name) | [title](link) (name) | [title](link) (name) | [title](link) (name) | [title](link) (name) |
+| **Evening Homework** | [title](link) | [title](link) | [title](link) | [title](link) | [title](link) |
+
 
 ## Daily Schedule Overview
 
