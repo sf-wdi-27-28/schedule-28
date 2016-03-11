@@ -14,3 +14,32 @@ Time | Monday - Thursday | Friday |
 3:00 | Cont. Module 2 | Outcomes
 4:00 | Standups / 1:1s | Outcomes
 4:30 | Begin Homework | Weekend Lab
+
+### Your Instructors
+Juliana Lopker <br>
+Justin Castilla <br>
+Nathan Allen <br>
+Nick Brennan (DiR, Developer in Residence)
+
+### Your Classmates
+Adam <br>
+Adriana <br>
+Ameer <br>
+Anna <br>
+Bob <br>
+Chiyuki <br>
+Christine <br>
+Emily <br>
+Franklin <br>
+Hector <br>
+Hila <br>
+Jim <br>
+Justin <br>
+Lotus <br>
+Matthew <br>
+Melissa <br>
+Michael <br>
+Morgan <br>
+Samuel <br>
+Scott <br>
+Sean <br>
