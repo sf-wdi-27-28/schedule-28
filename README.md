@@ -1,7 +1,7 @@
 # WDI SF 28
 
 
-How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-to/submit-homework.md" target="blank">Submit Homework</a> ● <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-to/request-a-code-review.md" target="blank">Request a Code Review</a>
+How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-to/submit-homework.md" target="blank">Submit Homework</a> ● <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-to/request-a-code-review.md" target="blank">Request a Code Review</a> ● [About Us](ABOUT.md)
 
 <!-- Week template -->
 <!-- ## Week 1 - Front End Basics
@@ -34,32 +34,3 @@ Time | Monday - Thursday | Friday |
 3:00 | Cont. Module 2 | Outcomes
 4:00 | Standups / 1:1s | Outcomes
 4:30 | Begin Homework | Weekend Lab
-
-### Your Instructors
-Juliana Lopker <br>
-Justin Castilla <br>
-Nathan Allen <br>
-Nick Brennan (DiR, Developer in Residence)
-
-### Your Classmates
-Adam <br>
-Adriana <br>
-Ameer <br>
-Anna <br>
-Bob <br>
-Chiyuki <br>
-Christine <br>
-Emily <br>
-Franklin <br>
-Hector <br>
-Hila <br>
-Jim <br>
-Justin <br>
-Lotus <br>
-Matthew <br>
-Melissa <br>
-Michael <br>
-Morgan <br>
-Samuel <br>
-Scott <br>
-Sean <br>
