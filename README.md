@@ -22,6 +22,7 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
 | **Module 2** | [Assessment](https://github.com/SF-WDI-LABS/shared_modules/tree/master/assessments/27-28/day-01) ([Solutions](https://github.com/SF-WDI-LABS/shared_modules/blob/master/assessments/27-28/day-01/solutions.md)) <br><br> [What is the Internet, Terminal, Git/GitHub](https://github.com/SF-WDI-LABS/shared_modules/tree/master/01-front-end-basics/how-the-internet-works/27-28) (Juliana) | [Functions & Arguments](#) (JC) | [Bootstrap & Class-based CSS](#) (name) | [DOM Events](#) (JC) |  [Tic-Tac-Toe Weekend Lab](#) <br><br> Outcomes |
 | **Evening Homework** | [Command Line Mystery](https://github.com/SF-WDI-LABS/shared_modules/tree/master/homework/27-28/week-01) | [JS Primitives & Objects](#) | [Selectors](#) | [Practice jQuery](#) | [Continue Tic-Tac-Toe Weekend Lab](#) |
 
+
 ## Daily Schedule Overview
 
 Time | Monday - Thursday | Friday |
