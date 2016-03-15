@@ -44,22 +44,22 @@ Nick Brennan (DiR, Developer in Residence)
 ### Your Classmates
 Adam, GitHub(@mradambeck) & Slack(@adambeck)<br>
 Adriana, GitHub(@adrianavillagran) & Slack(@adrianavillagran) <br>
-Ameer, GitHub(@melissacarlson) & Slack(@melicarls) <br>
+Ameer, GitHub(@Ameer-Brown) & Slack(@ameerbrown) <br>
 Anna, GitHub(@cloverharvest) & Slack(@cloverharvest) <br>
-Bob, GitHub(@) & Slack(@) <br>
-Chiyuki, GitHub(@) & Slack(@) <br>
-Christine, GitHub(@lamchristine ) & Slack(@lamchristine ) <br>
-Emily, GitHub(@) & Slack(@) <br>
-Franklin, GitHub(@) & Slack(@) <br>
-Hector, GitHub(@) & Slack(@) <br>
+Bob, GitHub(@bkliger) & Slack(@bkliger) <br>
+Chiyuki, GitHub(@chyktgw) & Slack(@chiyuki) <br>
+Christine, GitHub(@lamchristine) & Slack(@lamchristine) <br>
+Emily, GitHub(@eamoses) & Slack(@eamoses) <br>
+Franklin, GitHub(@Franklinz23) & Slack(@franke) <br>
+Hector, GitHub(@hectorcoronado) & Slack(@hcoronado) <br>
 Hila, GitHub(@hilava) & Slack(@hila) <br>
 Jim, GitHub(@) & Slack(@) <br>
-Justin, GitHub(@) & Slack(@) <br>
+Justin, GitHub(@jtam11) & Slack(@jtam11) <br>
 Lotus, GitHub(@lsquach) & Slack(@lotus) <br>
 Matthew, GitHub(@mattvilhauer) & Slack(@matthewvilhauer) <br>
 Melissa, GitHub(@melicarls) & Slack(@melissacarlson) <br>
-Michael, GitHub(@) & Slack(@) <br>
+Michael, GitHub(@mbd-s) & Slack(@mbds) <br>
 Morgan, GitHub(@morgansharif) & Slack(@morgansharif) <br>
-Samuel, GitHub(@) & Slack(@) <br>
+Samuel, GitHub(@samuel1008) & Slack(@samuel1008) <br>
 Scott, GitHub(@samadrid92) & Slack(@samadrid92) <br>
-Sean, GitHub(@) & Slack(@) <br>
+Sean, GitHub(@seanvsville) & Slack(@ParanoidAndroid) <br>
