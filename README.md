@@ -42,24 +42,24 @@ Nathan Allen <br>
 Nick Brennan (DiR, Developer in Residence)
 
 ### Your Classmates
-Adam <br>
-Adriana <br>
-Ameer <br>
-Anna <br>
-Bob <br>
-Chiyuki <br>
-Christine <br>
-Emily <br>
-Franklin <br>
-Hector <br>
-Hila <br>
-Jim <br>
-Justin <br>
-Lotus <br>
-Matthew <br>
-Melissa <br>
-Michael <br>
-Morgan <br>
-Samuel <br>
-Scott <br>
-Sean <br>
+Adam, GitHub(@mradambeck) & Slack(@adambeck)<br>
+Adriana, GitHub(@adrianavillagran) & Slack(@adrianavillagran) <br>
+Ameer, GitHub(@melissacarlson) & Slack(@melicarls) <br>
+Anna, GitHub(@cloverharvest) & Slack(@cloverharvest) <br>
+Bob, GitHub(@) & Slack(@) <br>
+Chiyuki, GitHub(@) & Slack(@) <br>
+Christine, GitHub(@lamchristine ) & Slack(@lamchristine ) <br>
+Emily, GitHub(@) & Slack(@) <br>
+Franklin, GitHub(@) & Slack(@) <br>
+Hector, GitHub(@) & Slack(@) <br>
+Hila, GitHub(@hilava) & Slack(@hila) <br>
+Jim, GitHub(@) & Slack(@) <br>
+Justin, GitHub(@) & Slack(@) <br>
+Lotus, GitHub(@lsquach) & Slack(@lotus) <br>
+Matthew, GitHub(@mattvilhauer) & Slack(@matthewvilhauer) <br>
+Melissa, GitHub(@melicarls) & Slack(@melissacarlson) <br>
+Michael, GitHub(@) & Slack(@) <br>
+Morgan, GitHub(@morgansharif) & Slack(@morgansharif) <br>
+Samuel, GitHub(@) & Slack(@) <br>
+Scott, GitHub(@samadrid92) & Slack(@samadrid92) <br>
+Sean, GitHub(@) & Slack(@) <br>
