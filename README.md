@@ -1,6 +1,7 @@
 # WDI SF 28
 
-How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-to/homework-submission.md" target="blank">Submit Homework</a> ● <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-to/request-a-code-review.md" target="blank">Request a Code Review</a>
+
+How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-to/submit-homework.md" target="blank">Submit Homework</a> ● <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-to/request-a-code-review.md" target="blank">Request a Code Review</a>
 
 ## Week 1 - Front End Basics
 <table>
@@ -16,99 +17,91 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
     <td><strong>Drills</strong></td>
     <td> <!-- Week 1 - Monday Drill -->
       Orientation
-      (tbd)
     </td>
     <td> <!-- Week 1 - Tuesday Drill -->
-      Kyrel
-      (tbd)
+      <a href="https://github.com/sf-wdi-27-28/kyrel">Kyrel</a>
+      (Nathan)
     </td>
     <td> <!-- Week 1 - Wednesday Drill -->
-      Kyrel
-      (tbd)
+      <a href="https://github.com/sf-wdi-27-28/kyrel">Kyrel</a>
+      (Nathan)
     </td>
     <td> <!-- Week 1 - Thursday Drill -->
-      Kyrel
-      (tbd)
+      <a href="https://github.com/sf-wdi-27-28/kyrel">Kyrel</a>
+      (Nathan)
     </td>
     <td> <!-- Week 1 - Friday Review -->
-      Extend Kyrel
-      (team)
+      <a href="https://github.com/sf-wdi-27-28/kyrel">Extend Kyrel</a>
+      (Nathan)
     </td>
   </tr>
   <tr>
     <td><strong>Module 1</strong></td>
     <td> <!-- Week 1 - Monday Morning Module -->
       Orientation
-      (Team)
     </td>
     <td> <!-- Week 1 - Tuesday Morning Module -->
-      Control Flow
-      (tbd)
+      <a href="https://github.com/SF-WDI-LABS/shared_modules/tree/master/01-front-end-basics/js-control-flow/25">Control Flow</a>
+      (Nathan)
     </td>
     <td> <!-- Week 1 - Wednesday Morning Module -->
       Array Methods
-      (tbd)
+      (Justin)
     </td>
     <td> <!-- Week 1 - Thursday Morning Module -->
-      jQuery & DOM, Intro Chrome
-      (tbd)
+      jQuery &amp; DOM
+      (Juliana)
     </td>
     <td> <!-- Week 1 - Friday Morning Module -->
       Review
-      (team)
+      (Team)
     </td>
   </tr>
   <tr>
     <td><strong>Module 2</strong></td>
     <td> <!-- Week 1 - Monday Afternoon Module -->
-      Assessment
-      <br>
-      What is the Internet, Terminal, Git/GitHub
-      (tbd)
+      <a href="https://github.com/SF-WDI-LABS/shared_modules/tree/master/assessments/27-28/day-01">Assessment</a> - <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/assessments/27-28/day-01/solutions.md">Solution</a>
+      <br><br>
+      <a href="https://github.com/SF-WDI-LABS/shared_modules/tree/master/01-front-end-basics/how-the-internet-works/27-28">What is the Internet, Terminal, Git/GitHub</a>
+      (Juliana)
     </td>
     <td> <!-- Week 1 - Tuesday Afternoon Module -->
-      Functions & Arguments
-      (tbd)
+      <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/01-front-end-basics/js-functions/27-28">Functions & Arguments</a>
+      (Justin)
     </td>
     <td> <!-- Week 1 - Wednesday Afternoon Module -->
-      Bootstrap & class-based css
-      (tbd)
+      Bootstrap &amp; Class-based CSS
+      (Juliana)
     </td>
     <td> <!-- Week 1 - Thursday Afternoon Module -->
       DOM Events
-      (tbd)
+      (Justin)
     </td>
     <td> <!-- Week 1 - Friday Afternoon / Weekend Lab -->
-      Outcomes / Tic-Tac-Toe Weekend Lab
-      (tbd)
+      Tic-Tac-Toe Weekend Lab
+      <br><br>
+      Outcomes
     </td>
   </tr>
   <tr>
     <td><strong>Homework</strong></td>
     <td> <!-- Week 1 - Monday Homework -->
-      Command Line Mystery
-      <br>
-      Growth Mindset Video
-      (tbd)
+      <a href="https://github.com/SF-WDI-LABS/shared_modules/tree/master/homework/27-28/week-01">Command Line Mystery</a>
     </td>
     <td> <!-- Week 1 - Tuesday Homework -->
       JS Primitives & Objects
-      (tbd)
     </td>
     <td> <!-- Week 1 - Wednesday Homework -->
-      Selectors review, jQuery prep/ DOM preview, chrome dev tool elements
-      (tbd)
+      Selectors
     </td>
     <td> <!-- Week 1 - Thursday Homework -->
       Practice jQuery
-      (tbd)
     </td>
     <td> <!-- Week 1 - Friday -->
       <!-- BLANK -->
     </td>
   </tr>
 </table>
-
 
 ## Daily Schedule Overview
 
@@ -129,24 +122,24 @@ Nathan Allen <br>
 Nick Brennan (DiR, Developer in Residence)
 
 ### Your Classmates
-Adam <br>
-Adriana <br>
-Ameer <br>
-Anna <br>
-Bob <br>
-Chiyuki <br>
-Christine <br>
-Emily <br>
-Franklin <br>
-Hector <br>
-Hila <br>
-Jim <br>
-Justin <br>
-Lotus <br>
-Matthew <br>
-Melissa <br>
-Michael <br>
-Morgan <br>
-Samuel <br>
-Scott <br>
-Sean <br>
+Adam, GitHub(@mradambeck) & Slack(@adambeck)<br>
+Adriana, GitHub(@adrianavillagran) & Slack(@adrianavillagran) <br>
+Ameer, GitHub(@melissacarlson) & Slack(@melicarls) <br>
+Anna, GitHub(@cloverharvest) & Slack(@cloverharvest) <br>
+Bob, GitHub(@) & Slack(@) <br>
+Chiyuki, GitHub(@) & Slack(@) <br>
+Christine, GitHub(@lamchristine ) & Slack(@lamchristine ) <br>
+Emily, GitHub(@) & Slack(@) <br>
+Franklin, GitHub(@) & Slack(@) <br>
+Hector, GitHub(@) & Slack(@) <br>
+Hila, GitHub(@hilava) & Slack(@hila) <br>
+Jim, GitHub(@) & Slack(@) <br>
+Justin, GitHub(@) & Slack(@) <br>
+Lotus, GitHub(@lsquach) & Slack(@lotus) <br>
+Matthew, GitHub(@mattvilhauer) & Slack(@matthewvilhauer) <br>
+Melissa, GitHub(@melicarls) & Slack(@melissacarlson) <br>
+Michael, GitHub(@) & Slack(@) <br>
+Morgan, GitHub(@morgansharif) & Slack(@morgansharif) <br>
+Samuel, GitHub(@) & Slack(@) <br>
+Scott, GitHub(@samadrid92) & Slack(@samadrid92) <br>
+Sean, GitHub(@) & Slack(@) <br>
