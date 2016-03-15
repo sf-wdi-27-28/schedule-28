@@ -122,24 +122,26 @@ Nathan Allen <br>
 Nick Brennan (DiR, Developer in Residence)
 
 ### Your Classmates
-Adam, GitHub(@mradambeck) & Slack(@adambeck)<br>
-Adriana, GitHub(@adrianavillagran) & Slack(@adrianavillagran) <br>
-Ameer, GitHub(@Ameer-Brown) & Slack(@ameerbrown) <br>
-Anna, GitHub(@cloverharvest) & Slack(@cloverharvest) <br>
-Bob, GitHub(@bkliger) & Slack(@bkliger) <br>
-Chiyuki, GitHub(@chyktgw) & Slack(@chiyuki) <br>
-Christine, GitHub(@lamchristine) & Slack(@lamchristine) <br>
-Emily, GitHub(@eamoses) & Slack(@eamoses) <br>
-Franklin, GitHub(@Franklinz23) & Slack(@franke) <br>
-Hector, GitHub(@hectorcoronado) & Slack(@hcoronado) <br>
-Hila, GitHub(@hilava) & Slack(@hila) <br>
-Jim, GitHub(@) & Slack(@) <br>
-Justin, GitHub(@jtam11) & Slack(@jtam11) <br>
-Lotus, GitHub(@lsquach) & Slack(@lotus) <br>
-Matthew, GitHub(@mattvilhauer) & Slack(@matthewvilhauer) <br>
-Melissa, GitHub(@melicarls) & Slack(@melissacarlson) <br>
-Michael, GitHub(@mbd-s) & Slack(@mbds) <br>
-Morgan, GitHub(@morgansharif) & Slack(@morgansharif) <br>
-Samuel, GitHub(@samuel1008) & Slack(@samuel1008) <br>
-Scott, GitHub(@samadrid92) & Slack(@samadrid92) <br>
-Sean, GitHub(@seanvsville) & Slack(@ParanoidAndroid) <br>
+| **name** | **github** | **slack** |
+|-------|--------|--------|
+| Adam | [@mradambeck](https://github.com/mradambeck) | @adambeck |
+| Adriana | [@adrianavillagran](https://github.com/adrianavillagran) | @adrianavillagran |
+| Ameer | [@Ameer](https://github.com/Ameer-Brown-Brown) | @ameerbrown |
+| Anna | [@cloverharvest](https://github.com/cloverharvest) | @cloverharvest |
+| Bob | [@bkliger](https://github.com/bkliger) | @bkliger |
+| Chiyuki | [@chyktgw](https://github.com/chyktgw) | @chiyuki |
+| Christine | [@lamchristine](https://github.com/lamchristine) | @lamchristine |
+| Emily | [@eamoses](https://github.com/eamoses) | @eamoses |
+| Franklin | [@Franklinz23](https://github.com/Franklinz23) | @franke |
+| Hector | [@hectorcoronado](https://github.com/hectorcoronado) | @hcoronado |
+| Hila | [@hilava](https://github.com/hilava) | @hila |
+| Jim | --- | --- |
+| Justin | [@jtam11](https://github.com/jtam11) | @jtam11 |
+| Lotus | [@lsquach](https://github.com/lsquach) | @lotus |
+| Matthew | [@mattvilhauer](https://github.com/mattvilhauer) | @matthewvilhauer |
+| Melissa | [@melicarls](https://github.com/melicarls) | @melissacarlson |
+| Michael | [@mbd](https://github.com/mbd-s) | @mbds |
+| Morgan | [@morgansharif](https://github.com/morgansharif) | @morgansharif |
+| Samuel | [@samuel1008](https://github.com/samuel1008) | @samuel1008 |
+| Scott | [@samadrid92](https://github.com/samadrid92) | @samadrid92 |
+| Sean | [@seanvsville](https://github.com/seanvsville) | @ParanoidAndroid |
