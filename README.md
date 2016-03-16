@@ -45,7 +45,7 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
       (Nathan)
     </td>
     <td> <!-- Week 1 - Wednesday Morning Module -->
-      Array Methods
+      <a href="https://github.com/SF-WDI-LABS/shared_modules/tree/master/01-front-end-basics/js-arrays/27-28" target="new">Array Methods</a>
       (Justin)
     </td>
     <td> <!-- Week 1 - Thursday Morning Module -->
