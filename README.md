@@ -70,7 +70,7 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
       (Justin)
     </td>
     <td> <!-- Week 1 - Wednesday Afternoon Module -->
-      Bootstrap &amp; Class-based CSS
+      <a href="https://github.com/SF-WDI-LABS/shared_modules/tree/master/01-front-end-basics/css-bootstrap/27-28">Bootstrap &amp; Class-based CSS</a>
       (Juliana)
     </td>
     <td> <!-- Week 1 - Thursday Afternoon Module -->
