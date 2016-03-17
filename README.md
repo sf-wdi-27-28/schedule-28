@@ -49,7 +49,7 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
       (Justin)
     </td>
     <td> <!-- Week 1 - Thursday Morning Module -->
-      jQuery &amp; DOM
+    	<a href="https://github.com/SF-WDI-LABS/shared_modules/tree/master/01-front-end-basics/jquery-dom-manipulation/27-28">jQuery &amp; DOM</a>
       (Juliana)
     </td>
     <td> <!-- Week 1 - Friday Morning Module -->
