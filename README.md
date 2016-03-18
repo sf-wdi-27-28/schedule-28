@@ -140,10 +140,10 @@ Nick Brennan (DiR, Developer in Residence)
 | Franklin | [@Franklinz23](https://github.com/Franklinz23) | @franke |
 | Hector | [@hectorcoronado](https://github.com/hectorcoronado) | @hcoronado |
 | Hila | [@hilava](https://github.com/hilava) | @hila |
-| Jim | --- | --- |
+| Jim | [@jimhantrix](https://github.com/jimhantrix) | @jimtekanyo |
 | Justin | [@jtam11](https://github.com/jtam11) | @jtam11 |
 | Lotus | [@lsquach](https://github.com/lsquach) | @lotus |
-| Matthew | [@mattvilhauer](https://github.com/mattvilhauer) | @matthewvilhauer |
+| Matthew | [@matthewvilhauer](https://github.com/matthewvilhauer) | @matthewvilhauer |
 | Melissa | [@melicarls](https://github.com/melicarls) | @melissacarlson |
 | Michael | [@mbd](https://github.com/mbd-s) | @mbds |
 | Morgan | [@morgansharif](https://github.com/morgansharif) | @morgansharif |
