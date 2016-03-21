@@ -15,67 +15,67 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
   </tr>
   <tr>
     <td><strong>Drills</strong></td>
-    <td> <!-- Week 1 - Monday Drill -->
+    <td> <!-- Week 2 - Monday Drill -->
       <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-to/peer-review.md">Science Fair / Issues</a> (Juliana)
     </td>
-    <td> <!-- Week 1 - Tuesday Drill -->
+    <td> <!-- Week 2 - Tuesday Drill -->
       Letter Frequency Counter
       (Nathan)
     </td>
-    <td> <!-- Week 1 - Wednesday Drill -->
+    <td> <!-- Week 2 - Wednesday Drill -->
       Big O Intro
       (Justin)
     </td>
-    <td> <!-- Week 1 - Thursday Drill -->
+    <td> <!-- Week 2 - Thursday Drill -->
       Debugging
       (Juliana)
     </td>
-    <td> <!-- Week 1 - Friday Review -->
+    <td> <!-- Week 2 - Friday Review -->
       Review
       (Team)
     </td>
   </tr>
   <tr>
     <td><strong>Module 1</strong></td>
-    <td> <!-- Week 1 - Monday Morning Module -->
+    <td> <!-- Week 2 - Monday Morning Module -->
     <a href="https://github.com/sf-wdi-27-28/laundry-mat">Laundry Lab</a>
     &amp;
     <a href="https://github.com/SF-WDI-LABS/shared_modules/tree/master/01-front-end-basics/js-array-iterators/28">Array Iterators</a>
 			(Nathan)
     </td>
-    <td> <!-- Week 1 - Tuesday Morning Module -->
+    <td> <!-- Week 2 - Tuesday Morning Module -->
       HTTP, HTML Forms & Query Params
       (Nathan)
     </td>
-    <td> <!-- Week 1 - Wednesday Morning Module -->
+    <td> <!-- Week 2 - Wednesday Morning Module -->
       Handlebars Templating
       (Justin)
     </td>
-    <td> <!-- Week 1 - Thursday Morning Module -->
+    <td> <!-- Week 2 - Thursday Morning Module -->
     	Objects & Constructors
       (Justin)
     </td>
-    <td> <!-- Week 1 - Friday Morning Module -->
+    <td> <!-- Week 2 - Friday Morning Module -->
       Review
       (Team)
     </td>
   </tr>
   <tr>
     <td><strong>Module 2</strong></td>
-    <td> <!-- Week 1 - Monday Afternoon Module -->
+    <td> <!-- Week 2r - Monday Afternoon Module -->
       Drilling into Hashes
 			(Nick)
       <br>
 			------
 			<br>
-      JSON & HTML Strings
+      <a href="https://github.com/SF-WDI-LABS/html_strings" target="new">JSON & HTML Strings</a>
       (Justin)
     </td>
-    <td> <!-- Week 1 - Tuesday Afternoon Module -->
+    <td> <!-- Week 2 - Tuesday Afternoon Module -->
       AJAX/Giphy
       (Juliana)
     </td>
-    <td> <!-- Week 1 - Wednesday Afternoon Module -->
+    <td> <!-- Week 2 - Wednesday Afternoon Module -->
 			Vocab
 			(Nick)
 			<br>
@@ -84,11 +84,11 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
       Geoquakes
       (Juliana)
     </td>
-    <td> <!-- Week 1 - Thursday Afternoon Module -->
+    <td> <!-- Week 2 - Thursday Afternoon Module -->
       Object Lab
       (Justin)
     </td>
-    <td> <!-- Week 1 - Friday Afternoon / Weekend Lab -->
+    <td> <!-- Week 2 - Friday Afternoon / Weekend Lab -->
       Project 0
       <br><br>
       Outcomes
@@ -96,19 +96,19 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
   </tr>
   <tr>
     <td><strong>Homework</strong></td>
-    <td> <!-- Week 1 - Monday Homework -->
+    <td> <!-- Week 2 - Monday Homework -->
       Refactor & Debug Weekend Lab
     </td>
-    <td> <!-- Week 1 - Tuesday Homework -->
+    <td> <!-- Week 2 - Tuesday Homework -->
     	Spotify
     </td>
-    <td> <!-- Week 1 - Wednesday Homework -->
+    <td> <!-- Week 2 - Wednesday Homework -->
       OOP Readings
     </td>
-    <td> <!-- Week 1 - Thursday Homework -->
+    <td> <!-- Week 2 - Thursday Homework -->
       Model a Game and OO
     </td>
-    <td> <!-- Week 1 - Friday -->
+    <td> <!-- Week 2 - Friday -->
       <!-- BLANK -->
     </td>
   </tr>
