@@ -68,7 +68,7 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
       <br>
 			------
 			<br>
-      <a href="https://github.com/SF-WDI-LABS/html_strings" target="new">JSON & HTML Strings</a>
+      <a href="https://github.com/sf-wdi-27-28/html_strings" target="new">JSON & HTML Strings</a>
       (Justin)
     </td>
     <td> <!-- Week 2 - Tuesday Afternoon Module -->
@@ -97,7 +97,7 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
   <tr>
     <td><strong>Homework</strong></td>
     <td> <!-- Week 2 - Monday Homework -->
-      Refactor & Debug Weekend Lab
+      <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/27-28-w2-d1-hmwk/homework/27-28/week-02/README.md">Reading &amp; Chrome Add-ons</a>
     </td>
     <td> <!-- Week 2 - Tuesday Homework -->
     	Spotify
