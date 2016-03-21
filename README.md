@@ -38,6 +38,8 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
   <tr>
     <td><strong>Module 1</strong></td>
     <td> <!-- Week 1 - Monday Morning Module -->
+    <a href="https://github.com/sf-wdi-27-28/laundry-map">Laundry Lab</a>
+    &amp;
     <a href="https://github.com/SF-WDI-LABS/shared_modules/tree/master/01-front-end-basics/js-array-iterators/27-28">Array Iterators</a>
 			(Nathan)
     </td>
