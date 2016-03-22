@@ -44,7 +44,7 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
 			(Nathan)
     </td>
     <td> <!-- Week 2 - Tuesday Morning Module -->
-      <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/01-front-end-basics/html-forms/27-28">HTML Forms</a>
+      <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/01-front-end-basics/html-forms/27-28">HTML Forms</a> &amp; <a href="https://github.com/sf-wdi-27-28/html-forms-lab">Lab</a>
       (Nathan)
     </td>
     <td> <!-- Week 2 - Wednesday Morning Module -->
