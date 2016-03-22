@@ -19,7 +19,7 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
       <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-to/peer-review.md">Science Fair / Issues</a> (Juliana)
     </td>
     <td> <!-- Week 2 - Tuesday Drill -->
-      <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/25-lecture-html-forms/01-front-end-basics/html-forms/27-28/exercises.md#query-parameters----solutions">Query String Parser</a>
+      <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/01-front-end-basics/html-forms/27-28/exercises.md#query-parameters----solutions">Query String Parser</a>
       (Nathan)
     </td>
     <td> <!-- Week 2 - Wednesday Drill -->
@@ -44,7 +44,7 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
 			(Nathan)
     </td>
     <td> <!-- Week 2 - Tuesday Morning Module -->
-      HTTP, HTML Forms & Query Params
+      <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/01-front-end-basics/html-forms/27-28">HTML Forms</a>
       (Nathan)
     </td>
     <td> <!-- Week 2 - Wednesday Morning Module -->
