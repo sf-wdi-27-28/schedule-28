@@ -74,7 +74,7 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
       (Justin)
     </td>
     <td> <!-- Week 2 - Tuesday Afternoon Module -->
-      AJAX/Giphy
+      <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/01-front-end-basics/ajax-and-apis/27-28">Intro AJAX: Giphy Lab</a>
       (Juliana)
     </td>
     <td> <!-- Week 2 - Wednesday Afternoon Module -->
