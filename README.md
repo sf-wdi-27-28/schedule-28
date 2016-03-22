@@ -52,8 +52,10 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
       (Justin)
     </td>
     <td> <!-- Week 2 - Thursday Morning Module -->
+    <!-- <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/01-front-end-basics/oo-objects-constructors/27-28/README.md" target="new"> -->
     	Objects & Constructors
       (Justin)
+      <!-- </a> -->
     </td>
     <td> <!-- Week 2 - Friday Morning Module -->
       Review
@@ -62,7 +64,7 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
   </tr>
   <tr>
     <td><strong>Module 2</strong></td>
-    <td> <!-- Week 2r - Monday Afternoon Module -->
+    <td> <!-- Week 2 - Monday Afternoon Module -->
       Drilling into Hashes
 			(Nick)
       <br>
@@ -85,8 +87,10 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
       (Juliana)
     </td>
     <td> <!-- Week 2 - Thursday Afternoon Module -->
+<!--      <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/01-front-end-basics/oo-prototypes/27-28/README.md" target="new"> -->
       Object Lab
       (Justin)
+      <!-- </a> -->
     </td>
     <td> <!-- Week 2 - Friday Afternoon / Weekend Lab -->
       Project 0
