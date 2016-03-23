@@ -107,7 +107,7 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
     	<a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/homework/27-28/week-02/README.md">Spotify</a>
     </td>
     <td> <!-- Week 2 - Wednesday Homework -->
-      OOP Readings
+      	<a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/homework/27-28/week-02/README.md">OOP Preparation</a>
     </td>
     <td> <!-- Week 2 - Thursday Homework -->
       Model a Game and OO
