@@ -23,7 +23,7 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
       (Nathan)
     </td>
     <td> <!-- Week 2 - Wednesday Drill -->
-      Big O Intro
+      <a href="https://github.com/SF-WDI-LABS/js-algorithms-drills/blob/master/binarySearchChallenge.md" target="_blank">Binary Search</a>
       (Justin)
     </td>
     <td> <!-- Week 2 - Thursday Drill -->
