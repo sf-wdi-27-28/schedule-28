@@ -83,7 +83,7 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
 			<br>
 			-------
 			<br>
-      [Geoquakes](https://github.com/sf-wdi-27-28/geoquakes)
+      <a href="https://github.com/sf-wdi-27-28/geoquakes">Geoquakes</a>
       (Juliana)
     </td>
     <td> <!-- Week 2 - Thursday Afternoon Module -->
