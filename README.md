@@ -23,7 +23,7 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
       (Nathan)
     </td>
     <td> <!-- Week 2 - Wednesday Drill -->
-      <a href="https://github.com/SF-WDI-LABS/js-algorithms-drills/blob/master/binary-search/README.md" target="_blank">Binary Search</a>
+      <a href="https://github.com/SF-WDI-LABS/js-algorithms-drills/blob/master/binary-search/README.md">Binary Search</a>
       (Justin)
     </td>
     <td> <!-- Week 2 - Thursday Drill -->
@@ -48,7 +48,7 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
       (Nathan)
     </td>
     <td> <!-- Week 2 - Wednesday Morning Module -->
-      <a href="https://github.com/SF-WDI-LABS/shared_modules/tree/master/01-front-end-basics/templating-handlebars/27-28" target="_blank">Handlebars Templating</a>
+      <a href="https://github.com/SF-WDI-LABS/shared_modules/tree/master/01-front-end-basics/templating-handlebars/27-28">Handlebars Templating</a>
       (Justin)
     </td>
     <td> <!-- Week 2 - Thursday Morning Module -->
@@ -83,7 +83,7 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
 			<br>
 			-------
 			<br>
-      Geoquakes
+      [Geoquakes](https://github.com/sf-wdi-27-28/geoquakes)
       (Juliana)
     </td>
     <td> <!-- Week 2 - Thursday Afternoon Module -->
