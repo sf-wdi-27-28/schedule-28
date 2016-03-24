@@ -85,10 +85,10 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
       (Juliana)
     </td>
     <td> <!-- Week 2 - Thursday Afternoon Module -->
-<!--      <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/01-front-end-basics/oo-prototypes/27-28/README.md" target="new"> -->
+	<a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/01-front-end-basics/oo-prototypes/27-28/README.md" target="new">
       Object Lab
       (Justin)
-      <!-- </a> -->
+      </a>
     </td>
     <td> <!-- Week 2 - Friday Afternoon / Weekend Lab -->
       Project 0
