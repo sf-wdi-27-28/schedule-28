@@ -108,7 +108,7 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
       	<a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/homework/27-28/week-02/README.md">OOP Preparation</a>
     </td>
     <td> <!-- Week 2 - Thursday Homework -->
-      Model a Game and OO
+      <a href="https://github.com/SF-WDI-LABS/shared_modules/tree/master/homework/27-28/week-02#day-4">Model a Game and OO</a>
     </td>
     <td> <!-- Week 2 - Friday -->
       <!-- BLANK -->
