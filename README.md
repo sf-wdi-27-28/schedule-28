@@ -27,7 +27,7 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
       (Justin)
     </td>
     <td> <!-- Week 2 - Thursday Drill -->
-      Debugging
+      <a href="https://github.com/sf-wdi-27-28/debug-drills">Debugging</a>
       (Juliana)
     </td>
     <td> <!-- Week 2 - Friday Review -->
