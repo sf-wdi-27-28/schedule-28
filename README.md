@@ -20,11 +20,11 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
       (Juliana)
     </td>
     <td> <!-- Week 3 - Tuesday Drill -->
-      Merge Sort
+      Bubble Sort
       (Justin)
     </td>
     <td> <!-- Week 3 - Wednesday Drill -->
-      Bubble Sort
+      Merge Sort
       (Justin)
     </td>
     <td> <!-- Week 3 - Thursday Drill -->
