@@ -62,7 +62,7 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
   <tr>
     <td><strong>Module 2</strong></td>
     <td> <!-- Week 3 - Monday Afternoon Module -->
-      Stackoverflow Q&A
+      Googling and Stackoverflow-ing
       (Nick)
       <br>
       -----------
