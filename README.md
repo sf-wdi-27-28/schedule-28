@@ -56,8 +56,10 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
       (Justin)
     </td>
     <td> <!-- Week 2 - Friday Morning Module -->
-      Review
-      (Team)
+      Review (Team)
+      <br>
+      <br>
+      <a href="https://github.com/SF-WDI-LABS/shared_modules/tree/master/assessments/27-28/week-02">Assessment</a> (<a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/assessments/27-28/week-02/solutions.md">Solution</a>)
     </td>
   </tr>
   <tr>
