@@ -16,7 +16,7 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
   <tr>
     <td><strong>Drills</strong></td>
     <td> <!-- Week 3 - Monday Drill -->
-      Issues / Science Fair
+      Science Fair / <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-to/peer-review.md">Issues</a>
       (Juliana)
     </td>
     <td> <!-- Week 3 - Tuesday Drill -->
