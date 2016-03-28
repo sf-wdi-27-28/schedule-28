@@ -39,7 +39,7 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
   <tr>
     <td><strong>Module 1</strong></td>
     <td> <!-- Week 3 - Monday Morning Module -->
-      Intro Express
+      <a href="https://github.com/SF-WDI-LABS/shared_modules/tree/master/02-express-mongo-crud/intro-express/27-28" target="_blank">Intro Express</a>
       (Juliana)
     </td>
     <td> <!-- Week 3 - Tuesday Morning Module -->
