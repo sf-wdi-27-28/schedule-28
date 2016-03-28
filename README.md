@@ -94,7 +94,7 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
   <tr>
     <td><strong>Homework</strong></td>
     <td> <!-- Week 3 - Monday Homework -->
-      Express Docs & REST Reading
+      <a href="https://github.com/SF-WDI-LABS/shared_modules/tree/master/homework/27-28/week-03">REST Reading and exercises</a>
     </td>
     <td> <!-- Week 3 - Tuesday Homework -->
       Express Build Drills
