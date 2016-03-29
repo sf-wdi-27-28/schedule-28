@@ -20,7 +20,7 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
       (Juliana)
     </td>
     <td> <!-- Week 3 - Tuesday Drill -->
-      Bubble Sort
+      <a href="https://github.com/SF-WDI-LABS/js-algorithms-drills/tree/master/bubble-sort">Bubble Sort</a>
       (Justin)
     </td>
     <td> <!-- Week 3 - Wednesday Drill -->
