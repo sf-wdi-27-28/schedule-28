@@ -21,7 +21,7 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
     </td>
     <td> <!-- Week 3 - Tuesday Drill -->
       <a href="https://github.com/SF-WDI-LABS/js-algorithms-drills/tree/master/bubble-sort">Bubble Sort</a>
-      (Justin)
+      (Nathan)
     </td>
     <td> <!-- Week 3 - Wednesday Drill -->
       Merge Sort
@@ -43,7 +43,7 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
       (Juliana)
     </td>
     <td> <!-- Week 3 - Tuesday Morning Module -->
-      Todo Lab
+      Express Review / REST Convention
       (Nathan)
     </td>
     <td> <!-- Week 3 - Wednesday Morning Module -->
@@ -71,7 +71,7 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
       (Justin)
     </td>
     <td> <!-- Week 3 - Tuesday Afternoon Module -->
-      Todo Lab Cont.
+      <a href="https://github.com/sf-wdi-27-28/test-driven-todo-api">Todo Lab</a>
       (Nathan)
     </td>
     <td> <!-- Week 3 - Wednesday Afternoon Module -->
