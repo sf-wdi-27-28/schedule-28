@@ -75,7 +75,7 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
       (Nathan)
     </td>
     <td> <!-- Week 3 - Wednesday Afternoon Module -->
-      Mongoose Relationships
+      <a href="https://github.com/SF-WDI-LABS/shared_modules/tree/master/02-express-mongo-crud/mongoose-reference-populate/27-28">Mongoose Relationships</a>
       (Juliana)
     </td>
     <td> <!-- Week 3 - Thursday Afternoon Module -->
