@@ -47,7 +47,7 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
       (Nathan)
     </td>
     <td> <!-- Week 3 - Wednesday Morning Module -->
-      <a href="https://github.com/SF-WDI-LABS/shared_modules/tree/master/02-express-mongo-crud/mongoose-intro/27-28" target="_blank">Intro Mongoose</> and <a href="https://github.com/sf-wdi-27-28/mongoose-books-app">mongoose books app</a>
+      <a href="https://github.com/SF-WDI-LABS/shared_modules/tree/master/02-express-mongo-crud/mongoose-intro/27-28" target="_blank">Intro Mongoose</a> and <a href="https://github.com/sf-wdi-27-28/mongoose-books-app">mongoose books app</a>
       (Justin)
     </td>
     <td> <!-- Week 3 - Thursday Morning Module -->
