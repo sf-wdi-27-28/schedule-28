@@ -88,6 +88,7 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
       (Justin)
     </td>
     <td> <!-- Week 3 - Friday Afternoon / Weekend Lab -->
+    <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-to/heroku-mean-stack-deploy.md" target="_blank">Heroku Lab</a>
       Personal API
     </td>
   </tr>
