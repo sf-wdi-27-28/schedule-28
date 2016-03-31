@@ -51,7 +51,7 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
       (Justin)
     </td>
     <td> <!-- Week 3 - Thursday Morning Module -->
-      <a href="https://github.com/SF-WDI-LABS/shared_modules/tree/master/02-express-mongo-crud/mongoose-embed/27-28">More Relationships</a> and <a href="https://github.com/SF-WDI-LABS/mongoose-books-app">Mongoose Book App</a>
+      <a href="https://github.com/SF-WDI-LABS/shared_modules/tree/master/02-express-mongo-crud/mongoose-embed/27-28">Embedded Relationships</a> and <a href="https://github.com/SF-WDI-LABS/mongoose-books-app">Mongoose Book App</a>
       (Juliana)
     </td>
     <td> <!-- Week 3 - Friday Morning Module -->
