@@ -84,6 +84,7 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
     </td>
     <td> <!-- Week 3 - Friday Afternoon / Weekend Lab -->
     <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-to/heroku-mean-stack-deploy.md" target="_blank">Heroku Lab</a>
+    ------------
       Personal API
     </td>
   </tr>
@@ -99,7 +100,7 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
       <a href="https://github.com/SF-WDI-LABS/shared_modules/tree/master/homework/27-28/week-03#day-3">CRUD/Query Method Reading</a>
     </td>
     <td> <!-- Week 3 - Thursday Homework -->
-      Continue Fill in the Blog
+      Continue Book-App
     </td>
     <td> <!-- Week 3 - Friday -->
       <!-- BLANK -->
