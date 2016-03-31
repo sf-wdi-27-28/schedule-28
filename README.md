@@ -32,8 +32,8 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
       (Justin)
     </td>
     <td> <!-- Week 3 - Friday Review -->
-      Review
-      (team)
+     	JS Method Show and Tell
+      (Nick)
     </td>
   </tr>
   <tr>
@@ -79,12 +79,7 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
       (Juliana)
     </td>
     <td> <!-- Week 3 - Thursday Afternoon Module -->
-      JS Method Show and Tell
-      (Nick)
-      <br>
-      -----------
-      <br>
-      Fill in the Blog Review Lab
+      Intercultural Exchange for benefit of develop
       (Justin)
     </td>
     <td> <!-- Week 3 - Friday Afternoon / Weekend Lab -->
