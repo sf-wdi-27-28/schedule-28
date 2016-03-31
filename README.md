@@ -28,7 +28,7 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
       (Justin)
     </td>
     <td> <!-- Week 3 - Thursday Drill -->
-      <a href="https://github.com/SF-WDI-LABS/js-algorithms-drills/tree/master/big-o" target="blank>Big O</a>
+      <a href="https://github.com/SF-WDI-LABS/js-algorithms-drills/tree/master/big-o" target="_blank">Big O</a>
       (Justin)
     </td>
     <td> <!-- Week 3 - Friday Review -->
