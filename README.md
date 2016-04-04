@@ -16,7 +16,7 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
   <tr>
     <td><strong>Drills</strong></td>
     <td> <!-- Week 4 - Monday Drill -->
-      Go over personal API
+      Personal API, cURL & Postman
       (Nathan)
     </td>
     <td> <!-- Week 4 - Tuesday Drill -->
@@ -39,8 +39,8 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
   <tr>
     <td><strong>Module 1</strong></td>
     <td> <!-- Week 4 - Monday Morning Module -->
-      Tunely
-      (team)
+      <a href="https://github.com/sf-wdi-27-28/tunely">Tunely</a>
+      (Nathan)
     </td>
     <td> <!-- Week 4 - Tuesday Morning Module -->
       Tunely
@@ -63,11 +63,11 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
     <td><strong>Module 2</strong></td>
     <td> <!-- Week 4 - Monday Afternoon Module -->
       Tunely
-      (Nathan)
+      (Justin)
     </td>
     <td> <!-- Week 4 - Tuesday Afternoon Module -->
       Tunely
-      (Nathan)
+      (team)
     </td>
     <td> <!-- Week 4 - Wednesday Afternoon Module -->
       P1 Approvals
