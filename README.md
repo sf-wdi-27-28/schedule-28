@@ -28,11 +28,11 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
       (team)
     </td>
     <td> <!-- Week 4 - Thursday Drill -->
-      P1
+      <a href="https://github.com/sf-wdi-27-28/project-01" target="_blank" >P1</a>
       (team)
     </td>
     <td> <!-- Week 4 - Friday Review -->
-      P1
+      <a href="https://github.com/sf-wdi-27-28/project-01" target="_blank" >P1</a>
       (team)
     </td>
   </tr>
@@ -47,15 +47,15 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
       (team)
     </td>
     <td> <!-- Week 4 - Wednesday Morning Module -->
-      P1 Approvals
+      <a href="https://github.com/sf-wdi-27-28/project-01" target="_blank" >P1 Approvals</a>
       (team)
     </td>
     <td> <!-- Week 4 - Thursday Morning Module -->
-      P1
+      <a href="https://github.com/sf-wdi-27-28/project-01" target="_blank" >P1</a>
       (team)
     </td>
     <td> <!-- Week 4 - Friday Morning Module -->
-      P1
+      <a href="https://github.com/sf-wdi-27-28/project-01" target="_blank" >P1</a>
       (team)
     </td>
   </tr>
@@ -70,15 +70,15 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
       (team)
     </td>
     <td> <!-- Week 4 - Wednesday Afternoon Module -->
-      P1 Approvals
+      <a href="https://github.com/sf-wdi-27-28/project-01" target="_blank" >P1 Approvals </a>
       (team)
     </td>
     <td> <!-- Week 4 - Thursday Afternoon Module -->
-      P1
+      <a href="https://github.com/sf-wdi-27-28/project-01" target="_blank" >P1</a>
       (team)
     </td>
     <td> <!-- Week 4 - Friday Afternoon / Weekend Lab -->
-      P1
+      <a href="https://github.com/sf-wdi-27-28/project-01" target="_blank" >P1</a>
       (team)
     </td>
   </tr>
@@ -91,10 +91,10 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
       Tunely cont.
     </td>
     <td> <!-- Week 4 - Wednesday Homework -->
-      P1
+      <a href="https://github.com/sf-wdi-27-28/project-01" target="_blank" >P1</a>
     </td>
     <td> <!-- Week 4 - Thursday Homework -->
-      P1
+      <a href="https://github.com/sf-wdi-27-28/project-01" target="_blank" >P1</a>
     </td>
     <td> <!-- Week 4 - Friday -->
       <!-- BLANK -->
