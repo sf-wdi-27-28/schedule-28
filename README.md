@@ -3,8 +3,101 @@
 
 How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-to/submit-homework.md" target="blank">Submit Homework</a> ● <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-to/request-a-code-review.md" target="blank">Request a Code Review</a>
 
-## Project 1 Instructor:Students Assignment
-![img](https://raw.githubusercontent.com/sf-wdi-25/express_self_api/master/Screen%20Shot%202016-04-06%20at%2010.57.54%20AM.png)
+
+## Week 5  - Angular
+<table>
+  <tr>
+    <th><!-- BLANK --></th>
+    <th>Monday</th>
+    <th>Tuesday</th>
+    <th>Wednesday</th>
+    <th>Thursday</th>
+    <th>Friday</th>
+  </tr>
+  <tr>
+    <td><strong>Drills</strong></td>
+    <td> <!-- Week 5 - Monday Drill -->
+      Project 1
+    </td>
+    <td> <!-- Week 5 - Tuesday Drill -->
+      Project 1
+    </td>
+    <td> <!-- Week 5 - Wednesday Drill -->
+      Angular Intro
+      (Nathan)
+    </td>
+    <td> <!-- Week 5 - Thursday Drill -->
+      Javascript Drills
+      (Brianna)
+    </td>
+    <td> <!-- Week 5 - Friday Review -->
+      Review
+      (team)
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Module 1</strong></td>
+    <td> <!-- Week 5 - Monday Morning Module -->
+      Project 1
+    </td>
+    <td> <!-- Week 5 - Tuesday Morning Module -->
+	   Project 1 Presentations
+    </td>
+    <td> <!-- Week 5 - Wednesday Morning Module -->
+      Angular Directives & Templates
+      (Juliana)
+    </td>
+    <td> <!-- Week 5 - Thursday Morning Module -->
+      Angular $http U/D
+      (Juliana)
+      
+    </td>
+    <td> <!-- Week 5 - Friday Morning Module -->
+      Book App 
+      (Corey)
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Module 2</strong></td>
+    <td> <!-- Week 5 - Monday Afternoon Module -->
+      Project 1
+    </td>
+    <td> <!-- Week 5 - Tuesday Afternoon Module -->
+      FREEDOM!!!!
+    </td>
+    <td> <!-- Week 5 - Wednesday Afternoon Module -->
+      Angular $http C/R
+      (Justin)
+    </td>
+    <td> <!-- Week 5 - Thursday Afternoon Module -->
+      Angular Routing
+      (Nathan)
+    </td>
+    <td> <!-- Week 5 - Friday Afternoon / Weekend Lab -->
+      Book App & Outcomes
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Homework</strong></td>
+    <td> <!-- Week 5 - Monday Homework -->
+      Project 1
+    </td>
+    <td> <!-- Week 5 - Tuesday Homework -->
+      Sleep
+      (Everyone)
+    </td>
+    <td> <!-- Week 5 - Wednesday Homework -->
+      Tunely
+    </td>
+    <td> <!-- Week 5 - Thursday Homework -->
+      Tunley
+    </td>
+    <td> <!-- Week 5 - Friday -->
+      <!-- BLANK -->
+    </td>
+  </tr>
+</table>
+
 
 
 ## Week 4  - Full Stack JS
