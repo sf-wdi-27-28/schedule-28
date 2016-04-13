@@ -23,7 +23,7 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
       Project 1
     </td>
     <td> <!-- Week 5 - Wednesday Drill -->
-      Angular Intro
+      <a href="https://github.com/sf-wdi-27-28/intro_angular_challenges">Angular Intro</a>
       (Nathan)
     </td>
     <td> <!-- Week 5 - Thursday Drill -->
