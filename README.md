@@ -44,11 +44,11 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
 	   Project 1 Presentations
     </td>
     <td> <!-- Week 5 - Wednesday Morning Module -->
-      <a href="https://github.com/SF-WDI-LABS/shared_modules/tree/master/03-angular-mean/intro-angular/27-28">Angular Directives & Expressions</a> and <a href="https://github.com/SF-WDI-LABS/tunely-angular">tunely-angular</a>
+      <a href="https://github.com/SF-WDI-LABS/shared_modules/tree/master/03-angular-mean/intro-angular/27-28">Angular Directives & Expressions</a> and <a href="https://github.com/SF-WDI-LABS/tunely-angular">tunely-angular #1</a>
       (Juliana)
     </td>
     <td> <!-- Week 5 - Thursday Morning Module -->
-      Angular $http U/D
+      <a href="https://github.com/SF-WDI-LABS/shared_modules/tree/master/03-angular-mean/http-update-delete/27-28">Angular $http U/D</a> and <a href="https://github.com/SF-WDI-LABS/tunely-angular">tunely-angular #3</a>
       (Juliana)
     </td>
     <td> <!-- Week 5 - Friday Morning Module -->
