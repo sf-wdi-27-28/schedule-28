@@ -65,8 +65,7 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
       FREEDOM!!!!
     </td>
     <td> <!-- Week 5 - Wednesday Afternoon Module -->
-      <a href="https://github.com/SF-WDI-LABS/tunely-angular/blob/solutions_sprint_2/docs/sprint2.md" target="_blank">tunely-angular</a> and
-      <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/03-angular-mean/http/28/README.md" target="_blank">Angular $http C/R</a>
+      <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/03-angular-mean/http/28/README.md" target="_blank">Angular $http C/R</a> and <a href="https://github.com/SF-WDI-LABS/tunely-angular/blob/solutions_sprint_2/docs/sprint2.md" target="_blank">tunely-angular #2</a>
       (Justin)
     </td>
     <td> <!-- Week 5 - Thursday Afternoon Module -->
