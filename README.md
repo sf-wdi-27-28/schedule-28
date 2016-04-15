@@ -52,8 +52,7 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
       (Juliana)
     </td>
     <td> <!-- Week 5 - Friday Morning Module -->
-      Book App
-      (Corey)
+      <a href="https://github.com/sf-wdi-27-28/angular-books-crud-lab">Book App</a>
     </td>
   </tr>
   <tr>
@@ -75,7 +74,7 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
       (Nathan)
     </td>
     <td> <!-- Week 5 - Friday Afternoon / Weekend Lab -->
-      Book App & Outcomes
+      <a href="https://github.com/sf-wdi-27-28/angular-books-crud-lab">Book App</a> & Outcomes
     </td>
   </tr>
   <tr>
