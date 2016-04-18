@@ -39,7 +39,7 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
   <tr>
     <td><strong>Module 1</strong></td>
     <td> <!-- Week 6 - Monday Morning Module -->
-      angular-tunely Sprint 5
+      <a href="https://github.com/SF-WDI-LABS/tunely-angular/blob/master/docs/sprint5.md">angular-tunely Sprint 5</a>
       (Juliana)
     </td>
     <td> <!-- Week 6 - Tuesday Morning Module -->
