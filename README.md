@@ -3,6 +3,105 @@
 
 How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-to/submit-homework.md" target="blank">Submit Homework</a> ● <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-to/request-a-code-review.md" target="blank">Request a Code Review</a>
 
+## Week 6  - Topic
+<table>
+  <tr>
+    <th><!-- BLANK --></th>
+    <th>Monday</th>
+    <th>Tuesday</th>
+    <th>Wednesday</th>
+    <th>Thursday</th>
+    <th>Friday</th>
+  </tr>
+  <tr>
+    <td><strong>Drills</strong></td>
+    <td> <!-- Week 6 - Monday Drill -->
+      Linked List
+      (Brianna)
+    </td>
+    <td> <!-- Week 6 - Tuesday Drill -->
+      Linked List
+      (Justin)
+    </td>
+    <td> <!-- Week 6 - Wednesday Drill -->
+      Doubly linked list
+      (Justin)
+    </td>
+    <td> <!-- Week 6 - Thursday Drill -->
+      Health Check
+      (Juliana)
+    </td>
+    <td> <!-- Week 6 - Friday Review -->
+      Free-form Ruby practice
+      (Nathan)
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Module 1</strong></td>
+    <td> <!-- Week 6 - Monday Morning Module -->
+      angular-tunely Sprint 5
+      (Juliana)
+    </td>
+    <td> <!-- Week 6 - Tuesday Morning Module -->
+      Custom Directives
+      (Justin)
+    </td>
+    <td> <!-- Week 6 - Wednesday Morning Module -->
+      2 groups: MEAN AUTH
+      (Nathan+Justin)
+    </td>
+    <td> <!-- Week 6 - Thursday Morning Module -->
+      Intro Ruby - language comparison
+      (Juliana)
+    </td>
+    <td> <!-- Week 6 - Friday Morning Module -->
+      Intro Ruby Methods
+      (Juliana)
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Module 2</strong></td>
+    <td> <!-- Week 6 - Monday Afternoon Module -->
+      angular-geoquakes
+      (Juliana)
+    </td>
+    <td> <!-- Week 6 - Tuesday Afternoon Module -->
+      Services Lab
+      (tbd)
+    </td>
+    <td> <!-- Week 6 - Wednesday Afternoon Module -->
+      2 groups: MEAN Auth
+      (Nathan+Justin)
+    </td>
+    <td> <!-- Week 6 - Thursday Afternoon Module -->
+      Idiomatic Ruby
+      (Nathan)
+    </td>
+    <td> <!-- Week 6 - Friday Afternoon / Weekend Lab -->
+      Weekend Lab
+      (tbd)
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Homework</strong></td>
+    <td> <!-- Week 6 - Monday Homework -->
+      Tunely Sprint 5
+    </td>
+    <td> <!-- Week 6 - Tuesday Homework -->
+      Review, Self assessment
+    </td>
+    <td> <!-- Week 6 - Wednesday Homework -->
+      Look ahead at Ruby
+    </td>
+    <td> <!-- Week 6 - Thursday Homework -->
+      Ruby Koans
+    </td>
+    <td> <!-- Week 6 - Friday -->
+      <!-- BLANK -->
+    </td>
+  </tr>
+</table>
+
 
 ## Week 5  - Angular
 <table>
