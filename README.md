@@ -3,7 +3,7 @@
 
 How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-to/submit-homework.md" target="blank">Submit Homework</a> ● <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-to/request-a-code-review.md" target="blank">Request a Code Review</a>
 
-## Week 6  - Topic
+## Week 6  - Angular+Ruby
 <table>
   <tr>
     <th><!-- BLANK --></th>
