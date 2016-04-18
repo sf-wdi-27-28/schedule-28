@@ -62,7 +62,7 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
   <tr>
     <td><strong>Module 2</strong></td>
     <td> <!-- Week 6 - Monday Afternoon Module -->
-      angular-geoquakes
+      <a href="https://github.com/sf-wdi-27-28/geoquakes-angular">angular-geoquakes</a>
       (Juliana)
     </td>
     <td> <!-- Week 6 - Tuesday Afternoon Module -->
