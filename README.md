@@ -43,7 +43,7 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
       (Juliana)
     </td>
     <td> <!-- Week 6 - Tuesday Morning Module -->
-      Custom Directives
+      <a href="https://github.com/SF-WDI-LABS/angular-custom-directives/tree/has-directive-method" target="_blank">Custom Directives</a>
       (Justin)
     </td>
     <td> <!-- Week 6 - Wednesday Morning Module -->
