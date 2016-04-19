@@ -66,8 +66,7 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
       (Juliana)
     </td>
     <td> <!-- Week 6 - Tuesday Afternoon Module -->
-      Services Lab
-      (tbd)
+<a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/03-angular-mean/services-promises-ngResource/27-28/README.md">Services</a> & <a href="https://github.com/SF-WDI-LABS/angular_books_api_with_services">Service Implementation</a>      (Nathan)
     </td>
     <td> <!-- Week 6 - Wednesday Afternoon Module -->
       2 groups: MEAN Auth
