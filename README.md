@@ -24,7 +24,7 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
       (Justin)
     </td>
     <td> <!-- Week 6 - Wednesday Drill -->
-      Doubly linked list
+      Stacks and Queues
       (Justin)
     </td>
     <td> <!-- Week 6 - Thursday Drill -->
@@ -87,7 +87,7 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
       <a href="https://github.com/SF-WDI-LABS/shared_modules/tree/master/homework/27-28/week-06#day-1">Pre-reading and Tunely Sprint 5</a>
     </td>
     <td> <!-- Week 6 - Tuesday Homework -->
-      Review, Self assessment
+      <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/homework/27-28/week-06/README.md#day-2">Review, Self assessment</a>
     </td>
     <td> <!-- Week 6 - Wednesday Homework -->
       Look ahead at Ruby
