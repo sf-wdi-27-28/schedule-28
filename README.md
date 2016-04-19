@@ -24,7 +24,7 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
       (Justin)
     </td>
     <td> <!-- Week 6 - Wednesday Drill -->
-      Doubly linked list
+      Stacks and Queues
       (Justin)
     </td>
     <td> <!-- Week 6 - Thursday Drill -->
