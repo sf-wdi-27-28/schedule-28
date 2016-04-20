@@ -28,8 +28,8 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
       (Justin)
     </td>
     <td> <!-- Week 6 - Thursday Drill -->
-      Health Check
-      (Juliana)
+      Light Yoga
+      (Mercedes)
     </td>
     <td> <!-- Week 6 - Friday Review -->
       Free-form Ruby practice
