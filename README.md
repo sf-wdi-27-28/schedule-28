@@ -54,7 +54,7 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
       (team)
     </td>
     <td> <!-- Week 6 - Thursday Morning Module -->
-      Intro Ruby - language comparison
+      <a href="https://github.com/SF-WDI-LABS/shared_modules/tree/master/04-ruby-rails/intro-ruby/27-28">Intro Ruby</a>
       (Juliana)
     </td>
     <td> <!-- Week 6 - Friday Morning Module -->
