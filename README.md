@@ -28,7 +28,7 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
       (Justin)
     </td>
     <td> <!-- Week 6 - Thursday Drill -->
-      Health Check / Light Yoga
+      <a href="https://docs.google.com/forms/d/1GPOdCDCcrgFXhtGOBWYToN73X9IAwk2_KbRIyGrWYwE/viewform">Health Check</a> / Light Yoga
       (Mercedes)
     </td>
     <td> <!-- Week 6 - Friday Review -->
