@@ -3,6 +3,104 @@
 
 How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-to/submit-homework.md" target="blank">Submit Homework</a> ● <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-to/request-a-code-review.md" target="blank">Request a Code Review</a>
 
+## Week 7  - Ruby on Rails
+<table>
+  <tr>
+    <th><!-- BLANK --></th>
+    <th>Monday</th>
+    <th>Tuesday</th>
+    <th>Wednesday</th>
+    <th>Thursday</th>
+    <th>Friday</th>
+  </tr>
+  <tr>
+    <td><strong>Drills</strong></td>
+    <td> <!-- Week 7 - Monday Drill -->
+      Username Generator Lab with Tests
+      (Juliana)
+    </td>
+    <td> <!-- Week 7 - Tuesday Drill -->
+      CSV Challenge
+      (Nathan)
+    </td>
+    <td> <!-- Week 7 - Wednesday Drill -->
+      CSV Challenge
+      (Justin)
+    </td>
+    <td> <!-- Week 7 - Thursday Drill -->
+      CSV Challenge
+      (Nathan)
+    </td>
+    <td> <!-- Week 7 - Friday Review -->
+      Week 7 Feedback Survey
+      (Mercedes)
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Module 1</strong></td>
+    <td> <!-- Week 7 - Monday Morning Module -->
+      Regex Drills
+      (Nathan)
+    </td>
+    <td> <!-- Week 7 - Tuesday Morning Module -->
+      OO Lab
+      (Nathan)
+    </td>
+    <td> <!-- Week 7 - Wednesday Morning Module -->
+      SQL Queries
+      (Justin)
+    </td>
+    <td> <!-- Week 7 - Thursday Morning Module -->
+      Intro Active Record
+      (Justin)
+    </td>
+    <td> <!-- Week 7 - Friday Morning Module -->
+      Rock-n-Rails Review Lab
+      (Justin)
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Module 2</strong></td>
+    <td> <!-- Week 7 - Monday Afternoon Module -->
+      Ruby OOP
+      (Juliana)
+    </td>
+    <td> <!-- Week 7 - Tuesday Afternoon Module -->
+      OO Lab
+      (Nathan)
+    </td>
+    <td> <!-- Week 7 - Wednesday Afternoon Module -->
+      Intro Rails
+      (Juliana)
+    </td>
+    <td> <!-- Week 7 - Thursday Afternoon Module -->
+      Review
+      (Nathan)
+    </td>
+    <td> <!-- Week 7 - Friday Afternoon / Weekend Lab -->
+      Bog App
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Homework</strong></td>
+    <td> <!-- Week 7 - Monday Homework -->
+      Wheel of Fortune Lab
+    </td>
+    <td> <!-- Week 7 - Tuesday Homework -->
+      SQL Reading
+    </td>
+    <td> <!-- Week 7 - Wednesday Homework -->
+      Rails for Zombies
+    </td>
+    <td> <!-- Week 7 - Thursday Homework -->
+      Intro to Rails Guides
+    </td>
+    <td> <!-- Week 7 - Friday -->
+      <!-- BLANK -->
+    </td>
+  </tr>
+</table>
+
 ## Week 6  - Angular+Ruby
 <table>
   <tr>
