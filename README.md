@@ -80,7 +80,7 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
       (Nathan)
     </td>
     <td> <!-- Week 6 - Friday Afternoon / Weekend Lab -->
-      Weekend Lab
+      <a href="https://github.com/sf-wdi-27-28/ruby_method_drills.git">Weekend Lab</a>
       (tbd)
     </td>
   </tr>
