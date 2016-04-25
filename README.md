@@ -16,7 +16,7 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
   <tr>
     <td><strong>Drills</strong></td>
     <td> <!-- Week 7 - Monday Drill -->
-      Username Generator Lab with Tests
+      <a href="https://github.com/sf-wdi-27-28/username_generator">Username Generator Lab with Tests</a>
       (Juliana)
     </td>
     <td> <!-- Week 7 - Tuesday Drill -->
