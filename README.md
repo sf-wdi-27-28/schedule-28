@@ -39,7 +39,7 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
   <tr>
     <td><strong>Module 1</strong></td>
     <td> <!-- Week 7 - Monday Morning Module -->
-      Regex Drills
+      <a href="https://github.com/SF-WDI-LABS/shared_modules/tree/master/04-ruby-rails/ruby-regex/28">Regex</a>
       (Nathan)
     </td>
     <td> <!-- Week 7 - Tuesday Morning Module -->
