@@ -345,6 +345,7 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
     <td> <!-- Week 4 - Wednesday Morning Module -->
       <a href="https://github.com/sf-wdi-27-28/project-01" target="_blank" >P1 Approvals</a>
       (team)
+      <a href="https://github.com/sf-wdi-27-28/express-microblog-add-auth">Express Auth Breakout</a>
     </td>
     <td> <!-- Week 4 - Thursday Morning Module -->
       <a href="https://github.com/sf-wdi-27-28/project-01" target="_blank" >P1</a>
