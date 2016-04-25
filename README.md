@@ -62,7 +62,7 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
   <tr>
     <td><strong>Module 2</strong></td>
     <td> <!-- Week 7 - Monday Afternoon Module -->
-      Ruby OOP
+      <a href="https://github.com/SF-WDI-LABS/shared_modules/tree/master/04-ruby-rails/ruby-oop">Ruby OOP</a>
       (Juliana)
     </td>
     <td> <!-- Week 7 - Tuesday Afternoon Module -->
