@@ -84,7 +84,7 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
   <tr>
     <td><strong>Homework</strong></td>
     <td> <!-- Week 7 - Monday Homework -->
-      Wheel of Fortune Lab
+      <a href="https://github.com/SF-WDI-LABS/shared_modules/tree/master/homework/27-28/week-07#day-1">Wheel of Fortune Lab</a>
     </td>
     <td> <!-- Week 7 - Tuesday Homework -->
       SQL Reading
