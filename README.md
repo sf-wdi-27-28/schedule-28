@@ -43,7 +43,7 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
       (Nathan)
     </td>
     <td> <!-- Week 7 - Tuesday Morning Module -->
-      OO Lab
+      <a href="https://github.com/sf-wdi-27-28/go-fish-card-game">OO Card Game</a>
       (Nathan)
     </td>
     <td> <!-- Week 7 - Wednesday Morning Module -->
