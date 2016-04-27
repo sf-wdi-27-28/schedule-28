@@ -70,7 +70,7 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
       (Nathan)
     </td>
     <td> <!-- Week 7 - Wednesday Afternoon Module -->
-      Intro Rails
+      <a href="https://github.com/SF-WDI-LABS/shared_modules/tree/master/04-ruby-rails/intro-rails/27-28">Intro Rails</a>
       (Juliana)
     </td>
     <td> <!-- Week 7 - Thursday Afternoon Module -->
