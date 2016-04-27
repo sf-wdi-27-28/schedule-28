@@ -24,7 +24,7 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
       (Nathan)
     </td>
     <td> <!-- Week 7 - Wednesday Drill -->
-      CSV Challenge
+      <a href="https://github.com/sf-wdi-27-28/csv_challenge/tree/master" targe="_blank">CSV Challenge</a>
       (Justin)
     </td>
     <td> <!-- Week 7 - Thursday Drill -->
