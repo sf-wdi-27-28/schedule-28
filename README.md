@@ -20,11 +20,11 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
       (Juliana)
     </td>
     <td> <!-- Week 7 - Tuesday Drill -->
-      CSV Challenge
+      <a href="https://github.com/sf-wdi-27-28/csv_challenge">CSV Challenge</a>
       (Nathan)
     </td>
     <td> <!-- Week 7 - Wednesday Drill -->
-      CSV Challenge
+      <a href="https://github.com/sf-wdi-27-28/csv_challenge/tree/master" targe="_blank">CSV Challenge</a>
       (Justin)
     </td>
     <td> <!-- Week 7 - Thursday Drill -->
@@ -43,11 +43,11 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
       (Nathan)
     </td>
     <td> <!-- Week 7 - Tuesday Morning Module -->
-      OO Lab
+      <a href="https://github.com/sf-wdi-27-28/go-fish-card-game">OO Card Game</a>
       (Nathan)
     </td>
     <td> <!-- Week 7 - Wednesday Morning Module -->
-      SQL Queries
+      <a href="https://github.com/SF-WDI-LABS/shared_modules/tree/master/04-ruby-rails/intro-sql/28">SQL Queries</a>
       (Justin)
     </td>
     <td> <!-- Week 7 - Thursday Morning Module -->
@@ -87,7 +87,7 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
       <a href="https://github.com/SF-WDI-LABS/shared_modules/tree/master/homework/27-28/week-07#day-1">Wheel of Fortune Lab</a>
     </td>
     <td> <!-- Week 7 - Tuesday Homework -->
-      SQL Reading
+      <a href="https://github.com/SF-WDI-LABS/shared_modules/tree/master/homework/27-28/week-07#day-2">SQL Reading</a>
     </td>
     <td> <!-- Week 7 - Wednesday Homework -->
       Rails for Zombies
