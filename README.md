@@ -93,7 +93,7 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
       <a href="https://github.com/SF-WDI-LABS/shared_modules/tree/master/homework/27-28/week-07#day-3">Rails for Zombies</a>
     </td>
     <td> <!-- Week 7 - Thursday Homework -->
-      Intro to Rails Guides
+      <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/homework/27-28/week-07/README.md#day-4"> SO MANY FUN THINGS TO DO!!!</a>
     </td>
     <td> <!-- Week 7 - Friday -->
       <!-- BLANK -->
