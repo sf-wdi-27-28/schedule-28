@@ -74,7 +74,7 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
       (Juliana)
     </td>
     <td> <!-- Week 7 - Thursday Afternoon Module -->
-      Review
+      Outside-in Rails Development
       (Nathan)
     </td>
     <td> <!-- Week 7 - Friday Afternoon / Weekend Lab -->
