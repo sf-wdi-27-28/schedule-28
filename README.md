@@ -51,7 +51,7 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
       (Justin)
     </td>
     <td> <!-- Week 7 - Thursday Morning Module -->
-      Intro Active Record
+      <a href="https://github.com/sf-wdi-27-28/fashion_conference_app/blob/master/README.md" target="_blank">Intro Active Record</a>
       (Justin)
     </td>
     <td> <!-- Week 7 - Friday Morning Module -->
