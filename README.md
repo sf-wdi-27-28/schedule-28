@@ -78,7 +78,7 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
       (Nathan)
     </td>
     <td> <!-- Week 7 - Friday Afternoon / Weekend Lab -->
-      Bog App
+      <a href="https://github.com/sf-wdi-27-28/rails-bog-app">Bog App</a>
     </td>
   </tr>
   <tr>
