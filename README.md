@@ -150,11 +150,11 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
       (Justin)
     </td>
     <td> <!-- Week 7 - Thursday Morning Module -->
-      Intro Active Record
+      <a href="https://github.com/sf-wdi-27-28/fashion_conference_app/blob/master/README.md" target="_blank">Intro Active Record</a>
       (Justin)
     </td>
     <td> <!-- Week 7 - Friday Morning Module -->
-      Rock-n-Rails Review Lab
+      <a href="https://github.com/SF-WDI-LABS/rock-n-rails">Rock-n-Rails Review Lab</a>
       (Justin)
     </td>
   </tr>
@@ -173,11 +173,11 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
       (Juliana)
     </td>
     <td> <!-- Week 7 - Thursday Afternoon Module -->
-      Review
+      Outside-in Rails Development
       (Nathan)
     </td>
     <td> <!-- Week 7 - Friday Afternoon / Weekend Lab -->
-      Bog App
+      <a href="https://github.com/sf-wdi-27-28/rails-bog-app">Bog App</a>
     </td>
   </tr>
   <tr>
@@ -192,7 +192,7 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
       <a href="https://github.com/SF-WDI-LABS/shared_modules/tree/master/homework/27-28/week-07#day-3">Rails for Zombies</a>
     </td>
     <td> <!-- Week 7 - Thursday Homework -->
-      Intro to Rails Guides
+      <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/homework/27-28/week-07/README.md#day-4"> SO MANY FUN THINGS TO DO!!!</a>
     </td>
     <td> <!-- Week 7 - Friday -->
       <!-- BLANK -->
