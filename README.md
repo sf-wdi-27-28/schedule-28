@@ -25,7 +25,7 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
     </td>
     <td> <!-- Week 8 - Wednesday Drill -->
       Merge Sort
-      (Justin)
+      (Juliana)
     </td>
     <td> <!-- Week 8 - Thursday Drill -->
       Git Workflow
@@ -48,7 +48,7 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
     </td>
     <td> <!-- Week 8 - Wednesday Morning Module -->
       Validations and Error handling
-      (Juliana)
+      (Justin)
     </td>
     <td> <!-- Week 8 - Thursday Morning Module -->
       Vagabond
