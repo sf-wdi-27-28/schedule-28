@@ -16,7 +16,7 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
   <tr>
     <td><strong>Drills</strong></td>
     <td> <!-- Week 8 - Monday Drill -->
-      Secret Keys
+      <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/miscellaneous-drills/secret-keys.md">Secret Keys</a>
       (Justin)
     </td>
     <td> <!-- Week 8 - Tuesday Drill -->
