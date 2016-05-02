@@ -39,7 +39,7 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
   <tr>
     <td><strong>Module 1</strong></td>
     <td> <!-- Week 8 - Monday Morning Module -->
-      Rails Auth
+      <a href="https://github.com/SF-WDI-LABS/shared_modules/tree/master/04-ruby-rails/rails-auth/28">Rails Auth</a>
       (Justin)
     </td>
     <td> <!-- Week 8 - Tuesday Morning Module -->
