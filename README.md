@@ -62,7 +62,7 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
   <tr>
     <td><strong>Module 2</strong></td>
     <td> <!-- Week 8 - Monday Afternoon Module -->
-      Library App P1
+      <a href="https://github.com/SF-WDI-LABS/public_library_app/blob/master/1_users_and_auth.md">Library App P1</a>
       (Juliana)
     </td>
     <td> <!-- Week 8 - Tuesday Afternoon Module -->
