@@ -88,7 +88,7 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
       <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/homework/27-28/week-08/README.md#day-1">Associations & Migrations Reading</a>
     </td>
     <td> <!-- Week 8 - Tuesday Homework -->
-      Rails Guide - Validations
+      <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/homework/27-28/week-08/README.md#day-2">Validations Reading</a>
     </td>
     <td> <!-- Week 8 - Wednesday Homework -->
       Vagabond
