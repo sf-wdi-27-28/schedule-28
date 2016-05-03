@@ -20,7 +20,7 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
       (Justin)
     </td>
     <td> <!-- Week 8 - Tuesday Drill -->
-      1:N, N:N Relationships
+      <a href="https://gist.github.com/nathanallen/5bdae5d047aca4fc26f2191d27dd665d">1:N, N:N Relationships</a>
       (Nathan)
     </td>
     <td> <!-- Week 8 - Wednesday Drill -->
