@@ -24,7 +24,7 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
       (Nathan)
     </td>
     <td> <!-- Week 8 - Wednesday Drill -->
-      Merge Sort
+      Pretty Urls and Image Uploading
       (Juliana)
     </td>
     <td> <!-- Week 8 - Thursday Drill -->
