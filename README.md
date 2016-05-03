@@ -66,7 +66,7 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
       (Juliana)
     </td>
     <td> <!-- Week 8 - Tuesday Afternoon Module -->
-      Library App P2
+      <a href="https://github.com/SF-WDI-LABS/public_library_app/blob/master/2_library_users.md">Library App P2</a>
       (Juliana)
     </td>
     <td> <!-- Week 8 - Wednesday Afternoon Module -->
