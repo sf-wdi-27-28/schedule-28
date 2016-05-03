@@ -20,7 +20,7 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
       (Justin)
     </td>
     <td> <!-- Week 8 - Tuesday Drill -->
-      Bubble Sort
+      1:N, N:N Relationships
       (Nathan)
     </td>
     <td> <!-- Week 8 - Wednesday Drill -->
@@ -85,7 +85,7 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
   <tr>
     <td><strong>Homework</strong></td>
     <td> <!-- Week 8 - Monday Homework -->
-      N:N Reading + Rails Guide
+      <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/homework/27-28/week-08/README.md#day-1">Associations & Migrations Reading</a>
     </td>
     <td> <!-- Week 8 - Tuesday Homework -->
       Rails Guide - Validations
