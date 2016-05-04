@@ -20,7 +20,7 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
       (Justin)
     </td>
     <td> <!-- Week 8 - Tuesday Drill -->
-      1:N, N:N Relationships
+      <a href="https://gist.github.com/nathanallen/5bdae5d047aca4fc26f2191d27dd665d">1:N, N:N Relationships</a>
       (Nathan)
     </td>
     <td> <!-- Week 8 - Wednesday Drill -->
@@ -43,7 +43,7 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
       (Justin)
     </td>
     <td> <!-- Week 8 - Tuesday Morning Module -->
-      Migrations and Associations
+      <a href="https://github.com/SF-WDI-LABS/shared_modules/tree/master/04-ruby-rails/migrations-and-associations/27">Migrations and Associations</a>
       (Nathan)
     </td>
     <td> <!-- Week 8 - Wednesday Morning Module -->
@@ -88,7 +88,7 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
       <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/homework/27-28/week-08/README.md#day-1">Associations & Migrations Reading</a>
     </td>
     <td> <!-- Week 8 - Tuesday Homework -->
-      Rails Guide - Validations
+      <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/homework/27-28/week-08/README.md#day-2">Validations Reading</a>
     </td>
     <td> <!-- Week 8 - Wednesday Homework -->
       Vagabond
