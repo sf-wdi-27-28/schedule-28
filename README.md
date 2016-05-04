@@ -71,6 +71,9 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
     </td>
     <td> <!-- Week 8 - Wednesday Afternoon Module -->
       Vagabond
+      <br>
+      <br>
+      <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-to/deploy-rails-to-heroku.md">Heroku deploy workshop</a>
       (team)
     </td>
     <td> <!-- Week 8 - Thursday Afternoon Module -->
