@@ -24,7 +24,7 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
       (Nathan)
     </td>
     <td> <!-- Week 8 - Wednesday Drill -->
-      We're going to migration hell
+      <a href="https://github.com/SF-WDI-LABS/shared_modules/tree/master/04-ruby-rails/migration-hell">We're going to migration hell</a>
       (Juliana)
     </td>
     <td> <!-- Week 8 - Thursday Drill -->
