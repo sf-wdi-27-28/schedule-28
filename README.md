@@ -77,7 +77,7 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
       (team)
     </td>
     <td> <!-- Week 8 - Thursday Afternoon Module -->
-      Vagabond
+      <a href="https://github.com/sf-wdi-27-28/project-vagabond-28">Vagabond</a>
       (team)
     </td>
     <td> <!-- Week 8 - Friday Afternoon / Weekend Lab -->
