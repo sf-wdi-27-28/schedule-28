@@ -70,7 +70,7 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
       (Juliana)
     </td>
     <td> <!-- Week 8 - Wednesday Afternoon Module -->
-      Vagabond
+      <a href="https://github.com/sf-wdi-27-28/project-vagabond-28">Vagabond</a>
       <br>
       <br>
       <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-to/deploy-rails-to-heroku.md">Heroku deploy workshop</a>
@@ -81,7 +81,7 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
       (team)
     </td>
     <td> <!-- Week 8 - Friday Afternoon / Weekend Lab -->
-      Vagabond
+      <a href="https://github.com/sf-wdi-27-28/project-vagabond-28">Vagabond</a>
       (team)
     </td>
   </tr>
@@ -94,10 +94,10 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
       <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/homework/27-28/week-08/README.md#day-2">Validations Reading</a>
     </td>
     <td> <!-- Week 8 - Wednesday Homework -->
-      Vagabond
+      <a href="https://github.com/sf-wdi-27-28/project-vagabond-28">Vagabond</a>
     </td>
     <td> <!-- Week 8 - Thursday Homework -->
-      Vagabond
+      <a href="https://github.com/sf-wdi-27-28/project-vagabond-28">Vagabond</a>
     </td>
     <td> <!-- Week 8 - Friday -->
       <!-- BLANK -->
