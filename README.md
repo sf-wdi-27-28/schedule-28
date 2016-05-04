@@ -47,7 +47,7 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
       (Nathan)
     </td>
     <td> <!-- Week 8 - Wednesday Morning Module -->
-      Validations and Error handling
+      <a href="https://github.com/SF-WDI-LABS/shared_modules/tree/master/04-ruby-rails/model-validations-error-handling/28">Validations and Error handling</a>
       (Justin)
     </td>
     <td> <!-- Week 8 - Thursday Morning Module -->
