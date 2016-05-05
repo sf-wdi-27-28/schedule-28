@@ -32,8 +32,8 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
       (Nathan)
     </td>
     <td> <!-- Week 8 - Friday Review -->
-      Vagabond
-      (team)
+      Project Managment & Agile
+      (Ajesh - PMI)
     </td>
   </tr>
   <tr>
