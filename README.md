@@ -28,7 +28,7 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
       (Juliana)
     </td>
     <td> <!-- Week 8 - Thursday Drill -->
-      Git Workflow
+      <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-to/github-collaboration-workflow.md">Git Workflow</a>
       (Nathan)
     </td>
     <td> <!-- Week 8 - Friday Review -->
