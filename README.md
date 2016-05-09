@@ -3,6 +3,110 @@
 
 How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-to/submit-homework.md" target="blank">Submit Homework</a> ● <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-to/request-a-code-review.md" target="blank">Request a Code Review</a>
 
+## Week 9  - Topic 
+<table>
+  <tr>
+    <th><!-- BLANK --></th>
+    <th>Monday</th>
+    <th>Tuesday</th>
+    <th>Wednesday</th>
+    <th>Thursday</th>
+    <th>Friday</th>
+  </tr>
+  <tr>
+    <td><strong>Drills</strong></td>
+    <td> <!-- Week 9 - Monday Drill -->
+      Vagabond
+      (team)
+    </td>
+    <td> <!-- Week 9 - Tuesday Drill -->
+      Asset Pipeline
+      (Nathan)
+    </td>
+    <td> <!-- Week 9 - Wednesday Drill -->
+      Lightning Talks 10am
+      (team)
+    </td>
+    <td> <!-- Week 9 - Thursday Drill -->
+      P2 Approvals
+      (team)
+    </td>
+    <td> <!-- Week 9 - Friday Review -->
+      Project 2
+      (team)
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Module 1</strong></td>
+    <td> <!-- Week 9 - Monday Morning Module -->
+      Vagabond
+      (team)
+    </td>
+    <td> <!-- Week 9 - Tuesday Morning Module -->
+      Javascript in Rails
+      (Nathan)
+    </td>
+    <td> <!-- Week 9 - Wednesday Morning Module -->
+      Lightning Talks
+      (team)
+    </td>
+    <td> <!-- Week 9 - Thursday Morning Module -->
+      Project 2
+      (team)
+    </td>
+    <td> <!-- Week 9 - Friday Morning Module -->
+      Project 2
+      (team)
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Module 2</strong></td>
+    <td> <!-- Week 9 - Monday Afternoon Module -->
+      Vagabond Presentations 3pm
+      (team)
+    </td>
+    <td> <!-- Week 9 - Tuesday Afternoon Module -->
+      Lightning Talk Prep
+      (team)
+    </td>
+    <td> <!-- Week 9 - Wednesday Afternoon Module -->
+      Project 2 Intro
+      (team)
+    </td>
+    <td> <!-- Week 9 - Thursday Afternoon Module -->
+      Project 2
+      (team)
+    </td>
+    <td> <!-- Week 9 - Friday Afternoon / Weekend Lab -->
+      Project 2
+      (team)
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Homework</strong></td>
+    <td> <!-- Week 9 - Monday Homework -->
+      Rails Asset Pipeline
+      (team)
+    </td>
+    <td> <!-- Week 9 - Tuesday Homework -->
+      P2 Spec / Lightning Talk Prep
+      (team)
+    </td>
+    <td> <!-- Week 9 - Wednesday Homework -->
+      Project 2
+      (team)
+    </td>
+    <td> <!-- Week 9 - Thursday Homework -->
+      Project 2
+      (team)
+    </td>
+    <td> <!-- Week 9 - Friday -->
+      <!-- BLANK -->
+    </td>
+  </tr>
+</table>
+
+
 ## Week 8  - Rails
 <table>
   <tr>
