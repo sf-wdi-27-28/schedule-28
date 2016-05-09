@@ -3,7 +3,7 @@
 
 How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-to/submit-homework.md" target="blank">Submit Homework</a> ● <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-to/request-a-code-review.md" target="blank">Request a Code Review</a>
 
-## Week 9  - Topic 
+## Week 9  - Rails 
 <table>
   <tr>
     <th><!-- BLANK --></th>
@@ -28,7 +28,7 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
       (team)
     </td>
     <td> <!-- Week 9 - Thursday Drill -->
-      P2 Approvals
+      Project 2 Approvals
       (team)
     </td>
     <td> <!-- Week 9 - Friday Review -->
