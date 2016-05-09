@@ -3,7 +3,109 @@
 
 How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-to/submit-homework.md" target="blank">Submit Homework</a> ● <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-to/request-a-code-review.md" target="blank">Request a Code Review</a>
 
-## Week 9  - Rails 
+## Week 10 (May 16th-20th)  - Project 2
+<table>
+  <tr>
+    <th><!-- BLANK --></th>
+    <th>Monday</th>
+    <th>Tuesday</th>
+    <th>Wednesday</th>
+    <th>Thursday</th>
+    <th>Friday</th>
+  </tr>
+  <tr>
+    <td><strong>Drills</strong></td>
+    <td> <!-- Week 10 - Monday Drill -->
+      Project 2
+      (team)
+    </td>
+    <td> <!-- Week 10 - Tuesday Drill -->
+      Project 2
+      (team)
+    </td>
+    <td> <!-- Week 10 - Wednesday Drill -->
+      Project 2
+      (team)
+    </td>
+    <td> <!-- Week 10 - Thursday Drill -->
+      Project 2
+      (team)
+    </td>
+    <td> <!-- Week 10 - Friday Review -->
+      Review
+      (team)
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Module 1</strong></td>
+    <td> <!-- Week 10 - Monday Morning Module -->
+      Project 2
+      (team)
+    </td>
+    <td> <!-- Week 10 - Tuesday Morning Module -->
+      Rspec Rails Breakout
+      (tbd)
+    </td>
+    <td> <!-- Week 10 - Wednesday Morning Module -->
+      Project 2
+      (team)
+    </td>
+    <td> <!-- Week 10 - Thursday Morning Module -->
+      Presentations
+      (team)
+    </td>
+    <td> <!-- Week 10 - Friday Morning Module -->
+      Rails Debugging Lab
+      (team)
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Module 2</strong></td>
+    <td> <!-- Week 10 - Monday Afternoon Module -->
+      Project 2
+      (team)
+    </td>
+    <td> <!-- Week 10 - Tuesday Afternoon Module -->
+      Project 2
+      (team)
+    </td>
+    <td> <!-- Week 10 - Wednesday Afternoon Module -->
+      Project 2
+      (team)
+    </td>
+    <td> <!-- Week 10 - Thursday Afternoon Module -->
+      Celebrate!
+      (team)
+    </td>
+    <td> <!-- Week 10 - Friday Afternoon / Weekend Lab -->
+      Rails Debugging Lab
+      (team)
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Homework</strong></td>
+    <td> <!-- Week 10 - Monday Homework -->
+      Project 2
+      (team)
+    </td>
+    <td> <!-- Week 10 - Tuesday Homework -->
+      Project 2
+      (team)
+    </td>
+    <td> <!-- Week 10 - Wednesday Homework -->
+      Project 2
+      (team)
+    </td>
+    <td> <!-- Week 10 - Thursday Homework -->
+      <!-- blank -->
+    </td>
+    <td> <!-- Week 10 - Friday -->
+      <!-- BLANK -->
+    </td>
+  </tr>
+</table>
+
+## Week 9 (May 9th-13th)  - Rails 
 <table>
   <tr>
     <th><!-- BLANK --></th>
