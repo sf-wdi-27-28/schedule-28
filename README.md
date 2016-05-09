@@ -187,7 +187,8 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
   <tr>
     <td><strong>Homework</strong></td>
     <td> <!-- Week 9 - Monday Homework -->
-      <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/homework/27-28/week-09/README.md#day-1">Asset Pipeline Reading & Issues</a><a href="https://docs.google.com/forms/d/1PJro3MtOXJMbSIBCXv5oGcZAGHQ2FBGcojPT04taOBo/viewform?usp=send_form">Vagabond Feedback Survey</a>
+      <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/homework/27-28/week-09/README.md#day-1">Asset Pipeline Reading & Issues</a>
+      <a href="https://docs.google.com/forms/d/1PJro3MtOXJMbSIBCXv5oGcZAGHQ2FBGcojPT04taOBo/viewform?usp=send_form">Vagabond Feedback Survey</a>
       (team)
     </td>
     <td> <!-- Week 9 - Tuesday Homework -->
