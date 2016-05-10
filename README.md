@@ -192,7 +192,7 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
       (team)
     </td>
     <td> <!-- Week 9 - Tuesday Homework -->
-      P2 Spec / Lightning Talk Prep
+      <a href="https://github.com/sf-wdi-27-28/project-2-28">P2 Spec</a> / Lightning Talk Prep
       (team)
     </td>
     <td> <!-- Week 9 - Wednesday Homework -->
