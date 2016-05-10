@@ -105,7 +105,7 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
   </tr>
 </table>
 
-## Week 9 (May 9th-13th)  - Project Vagbond / Project 2 
+## Week 9  - Project Vagbond / Project 2 
 <table>
   <tr>
     <th><!-- BLANK --></th>
@@ -145,7 +145,7 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
       (team)
     </td>
     <td> <!-- Week 9 - Tuesday Morning Module -->
-      Javascript in Rails
+      Javascript in Rails <a href="https://github.com/sf-wdi-27-28/turbolinks_challenge">Lab</a>
       (Nathan)
     </td>
     <td> <!-- Week 9 - Wednesday Morning Module -->
