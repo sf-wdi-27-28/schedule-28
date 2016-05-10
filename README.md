@@ -168,7 +168,7 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
       (team)
     </td>
     <td> <!-- Week 9 - Tuesday Afternoon Module -->
-      Lightning Talk Prep
+      <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/04-ruby-rails/rails-lightning-talks/README.md">Lightning Talk Prep</a>
       (team)
     </td>
     <td> <!-- Week 9 - Wednesday Afternoon Module -->
