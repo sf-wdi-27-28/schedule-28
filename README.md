@@ -3,7 +3,7 @@
 
 How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-to/submit-homework.md" target="blank">Submit Homework</a> ● <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-to/request-a-code-review.md" target="blank">Request a Code Review</a>
 
-## Week 10 (May 16th-20th)  - Project 2
+## Week 10 - Project 2
 <table>
   <tr>
     <th><!-- BLANK --></th>
@@ -105,7 +105,7 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
   </tr>
 </table>
 
-## Week 9 (May 9th-13th)  - Rails 
+## Week 9 (May 9th-13th)  - Project Vagbond / Project 2 
 <table>
   <tr>
     <th><!-- BLANK --></th>
@@ -122,7 +122,7 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
       (team)
     </td>
     <td> <!-- Week 9 - Tuesday Drill -->
-      Asset Pipeline
+      <a href="https://github.com/SF-WDI-LABS/shared_modules/tree/master/04-ruby-rails/asset-pipeline/27">Asset Pipeline</a> & <a href="https://github.com/sf-wdi-27-28/asset_pipeline_poem">Lab</a>
       (Nathan)
     </td>
     <td> <!-- Week 9 - Wednesday Drill -->
@@ -210,7 +210,7 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
 </table>
 
 
-## Week 8  - Rails
+## Week 8  - Rails & Auth / Project Vagabond
 <table>
   <tr>
     <th><!-- BLANK --></th>
