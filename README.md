@@ -16,19 +16,19 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
   <tr>
     <td><strong>Drills</strong></td>
     <td> <!-- Week 10 - Monday Drill -->
-      Project 2
+      <a href="https://github.com/sf-wdi-27-28/project-2-28/blob/master/README.md">Project 2</a>
       (team)
     </td>
     <td> <!-- Week 10 - Tuesday Drill -->
-      Project 2
+      <a href="https://github.com/sf-wdi-27-28/project-2-28/blob/master/README.md">Project 2</a>
       (team)
     </td>
     <td> <!-- Week 10 - Wednesday Drill -->
-      Project 2
+      <a href="https://github.com/sf-wdi-27-28/project-2-28/blob/master/README.md">Project 2</a>
       (team)
     </td>
     <td> <!-- Week 10 - Thursday Drill -->
-      Project 2
+      <a href="https://github.com/sf-wdi-27-28/project-2-28/blob/master/README.md">Project 2</a>
       (team)
     </td>
     <td> <!-- Week 10 - Friday Review -->
@@ -39,7 +39,7 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
   <tr>
     <td><strong>Module 1</strong></td>
     <td> <!-- Week 10 - Monday Morning Module -->
-      Project 2
+      <a href="https://github.com/sf-wdi-27-28/project-2-28/blob/master/README.md">Project 2</a>
       (team)
     </td>
     <td> <!-- Week 10 - Tuesday Morning Module -->
@@ -47,7 +47,7 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
       (tbd)
     </td>
     <td> <!-- Week 10 - Wednesday Morning Module -->
-      Project 2
+      <a href="https://github.com/sf-wdi-27-28/project-2-28/blob/master/README.md">Project 2</a>
       (team)
     </td>
     <td> <!-- Week 10 - Thursday Morning Module -->
@@ -62,15 +62,15 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
   <tr>
     <td><strong>Module 2</strong></td>
     <td> <!-- Week 10 - Monday Afternoon Module -->
-      Project 2
+      <a href="https://github.com/sf-wdi-27-28/project-2-28/blob/master/README.md">Project 2</a>
       (team)
     </td>
     <td> <!-- Week 10 - Tuesday Afternoon Module -->
-      Project 2
+      <a href="https://github.com/sf-wdi-27-28/project-2-28/blob/master/README.md">Project 2</a>
       (team)
     </td>
     <td> <!-- Week 10 - Wednesday Afternoon Module -->
-      Project 2
+      <a href="https://github.com/sf-wdi-27-28/project-2-28/blob/master/README.md">Project 2</a>
       (team)
     </td>
     <td> <!-- Week 10 - Thursday Afternoon Module -->
@@ -85,15 +85,15 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
   <tr>
     <td><strong>Homework</strong></td>
     <td> <!-- Week 10 - Monday Homework -->
-      Project 2
+     <a href="https://github.com/sf-wdi-27-28/project-2-28/blob/master/README.md">Project 2</a>
       (team)
     </td>
     <td> <!-- Week 10 - Tuesday Homework -->
-      Project 2
+     <a href="https://github.com/sf-wdi-27-28/project-2-28/blob/master/README.md">Project 2</a>
       (team)
     </td>
     <td> <!-- Week 10 - Wednesday Homework -->
-      Project 2
+     <a href="https://github.com/sf-wdi-27-28/project-2-28/blob/master/README.md">Project 2</a>
       (team)
     </td>
     <td> <!-- Week 10 - Thursday Homework -->
