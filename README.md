@@ -130,11 +130,11 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
       (team)
     </td>
     <td> <!-- Week 9 - Thursday Drill -->
-      Project 2 Approvals
+      <a href="https://github.com/sf-wdi-27-28/project-2-28/blob/master/README.md">Project 2</a> Approvals
       (team)
     </td>
     <td> <!-- Week 9 - Friday Review -->
-      Project 2
+      <a href="https://github.com/sf-wdi-27-28/project-2-28/blob/master/README.md">Project 2</a>
       (team)
     </td>
   </tr>
@@ -153,11 +153,11 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
       (team)
     </td>
     <td> <!-- Week 9 - Thursday Morning Module -->
-      Project 2
+      <a href="https://github.com/sf-wdi-27-28/project-2-28/blob/master/README.md">Project 2</a>
       (team)
     </td>
     <td> <!-- Week 9 - Friday Morning Module -->
-      Project 2
+      <a href="https://github.com/sf-wdi-27-28/project-2-28/blob/master/README.md">Project 2</a>
       (team)
     </td>
   </tr>
@@ -172,15 +172,15 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
       (team)
     </td>
     <td> <!-- Week 9 - Wednesday Afternoon Module -->
-      Project 2 Intro
+      <a href="https://github.com/sf-wdi-27-28/project-2-28/blob/master/README.md">Project 2</a> Intro
       (team)
     </td>
     <td> <!-- Week 9 - Thursday Afternoon Module -->
-      Project 2
+      <a href="https://github.com/sf-wdi-27-28/project-2-28/blob/master/README.md">Project 2</a>
       (team)
     </td>
     <td> <!-- Week 9 - Friday Afternoon / Weekend Lab -->
-      Project 2
+      <a href="https://github.com/sf-wdi-27-28/project-2-28/blob/master/README.md">Project 2</a>
       (team)
     </td>
   </tr>
@@ -196,11 +196,11 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
       (team)
     </td>
     <td> <!-- Week 9 - Wednesday Homework -->
-      Project 2
+      <a href="https://github.com/sf-wdi-27-28/project-2-28/blob/master/README.md">Project 2</a>
       (team)
     </td>
     <td> <!-- Week 9 - Thursday Homework -->
-      Project 2
+      <a href="https://github.com/sf-wdi-27-28/project-2-28/blob/master/README.md">Project 2</a>
       (team)
     </td>
     <td> <!-- Week 9 - Friday -->
