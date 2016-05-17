@@ -82,6 +82,10 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
     <td> <!-- Week 10 - Friday Afternoon / Weekend Lab -->
       Rails Debugging Lab
       (team)
+      <hr>
+      Outcomes
+      <hr>
+      Celebrate!
     </td>
   </tr>
   <tr>
