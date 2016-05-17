@@ -53,7 +53,7 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
       (team)
     </td>
     <td> <!-- Week 10 - Thursday Morning Module -->
-      Presentations
+      <a href="https://github.com/sf-wdi-27-28/project-2-28/blob/master/README.md">Project 2</a>
       (team)
     </td>
     <td> <!-- Week 10 - Friday Morning Module -->
@@ -76,7 +76,7 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
       (team)
     </td>
     <td> <!-- Week 10 - Thursday Afternoon Module -->
-      Celebrate!
+      Presentations and Celebrate!
       (team)
     </td>
     <td> <!-- Week 10 - Friday Afternoon / Weekend Lab -->
@@ -107,7 +107,7 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
   </tr>
 </table>
 
-## Week 9  - Project Vagbond / Project 2 
+## Week 9  - Project Vagbond / Project 2
 <table>
   <tr>
     <th><!-- BLANK --></th>
