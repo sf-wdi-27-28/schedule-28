@@ -43,8 +43,10 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
       (team)
     </td>
     <td> <!-- Week 10 - Tuesday Morning Module -->
-      <a href="https://github.com/sf-wdi-27-28/testing-with-rspec">Testing (with science!)</a>
+      10:00 - classroom 7<br> <a href="https://github.com/sf-wdi-27-28/testing-with-rspec">Testing (with science!)</a>
       (Justin)
+      <hr>
+      11:00 - classroom 7<br> <a href="https://github.com/SF-WDI-LABS/shared_modules/tree/master/04-ruby-rails/rspec-integration-testing-with-capybara/27">Integration testing with Capybara and RSpec</a> (TG)
     </td>
     <td> <!-- Week 10 - Wednesday Morning Module -->
       <a href="https://github.com/sf-wdi-27-28/project-2-28/blob/master/README.md">Project 2</a>
