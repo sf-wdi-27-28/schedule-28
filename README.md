@@ -43,8 +43,8 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
       (team)
     </td>
     <td> <!-- Week 10 - Tuesday Morning Module -->
-      Rspec Rails Breakout
-      (tbd)
+      <a href="https://github.com/sf-wdi-27-28/testing-with-rspec">Testing (with science!)</a>
+      (Justin)
     </td>
     <td> <!-- Week 10 - Wednesday Morning Module -->
       <a href="https://github.com/sf-wdi-27-28/project-2-28/blob/master/README.md">Project 2</a>
