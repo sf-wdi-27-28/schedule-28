@@ -24,8 +24,9 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
       (team)
     </td>
     <td> <!-- Week 10 - Wednesday Drill -->
-      <a href="https://github.com/sf-wdi-27-28/project-2-28/blob/master/README.md">Project 2</a>
-      (team)
+      <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-to/custom-domain-with-cloudflare.md">My First Custom Domain Name!</a> breakout
+      (Cory)
+      
     </td>
     <td> <!-- Week 10 - Thursday Drill -->
       <a href="https://github.com/sf-wdi-27-28/project-2-28/blob/master/README.md">Project 2</a>
