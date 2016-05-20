@@ -33,7 +33,7 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
       (team)
     </td>
     <td> <!-- Week 10 - Friday Review -->
-      Rails Debugging Lab
+      Rails <a href="https://github.com/sf-wdi-27-28/publify_debugging_lab_28">Debugging Lab</a>
       (Nathan)
     </td>
   </tr>
