@@ -33,8 +33,8 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
       (team)
     </td>
     <td> <!-- Week 10 - Friday Review -->
-      Review
-      (team)
+      Rails Debugging Lab
+      (Nathan)
     </td>
   </tr>
   <tr>
@@ -78,12 +78,9 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
       (team)
     </td>
     <td> <!-- Week 10 - Friday Afternoon / Weekend Lab -->
-      Rails Debugging Lab
-      (team)
-      <hr>
+      Debugging Lab Ctnd.
+      &amp;
       Outcomes
-      <hr>
-      Celebrate!
     </td>
   </tr>
   <tr>
@@ -104,7 +101,7 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
       <!-- blank -->
     </td>
     <td> <!-- Week 10 - Friday -->
-      <!-- BLANK -->
+      Celebrate!
     </td>
   </tr>
 </table>
