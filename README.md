@@ -26,7 +26,7 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
     <td> <!-- Week 10 - Wednesday Drill -->
      Hash Maps!
       (Justin)
-      
+
     </td>
     <td> <!-- Week 10 - Thursday Drill -->
       Project 3      (team)
@@ -57,9 +57,7 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
   <tr>
     <td><strong>Module 2</strong></td>
     <td> <!-- Week 10 - Monday Afternoon Module -->
-      
-Rangular (JL)
-
+      <a href="https://github.com/SF-WDI-LABS/shared_modules/tree/master/04-ruby-rails/rangular/28">Rangular</a> (JL)
     </td>
     <td> <!-- Week 10 - Tuesday Afternoon Module -->
            Lightning Talks
@@ -126,7 +124,7 @@ Rangular (JL)
     <td> <!-- Week 10 - Wednesday Drill -->
       <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-to/custom-domain-with-cloudflare.md">My First Custom Domain Name!</a> breakout
       (Cory)
-      
+
     </td>
     <td> <!-- Week 10 - Thursday Drill -->
       <a href="https://github.com/sf-wdi-27-28/project-2-28/blob/master/README.md">Project 2</a>
