@@ -3,6 +3,106 @@
 
 How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-to/submit-homework.md" target="blank">Submit Homework</a> ● <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-to/request-a-code-review.md" target="blank">Request a Code Review</a>
 
+## Week 11 - Ephemera & Project 3
+<table>
+  <tr>
+    <th><!-- BLANK --></th>
+    <th>Monday</th>
+    <th>Tuesday</th>
+    <th>Wednesday</th>
+    <th>Thursday</th>
+    <th>Friday</th>
+  </tr>
+  <tr>
+    <td><strong>Drills</strong></td>
+    <td> <!-- Week 10 - Monday Drill -->
+      Happy Tree People
+      (Justin)
+    </td>
+    <td> <!-- Week 10 - Tuesday Drill -->
+     Dictionary Trees!
+      (Justin)
+    </td>
+    <td> <!-- Week 10 - Wednesday Drill -->
+     Hash Maps!
+      (Justin)
+      
+    </td>
+    <td> <!-- Week 10 - Thursday Drill -->
+      Project 3      (team)
+    </td>
+    <td> <!-- Week 10 - Friday Review -->
+     Project 3      (team)
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Module 1</strong></td>
+    <td> <!-- Week 10 - Monday Morning Module -->
+      Rails/JS best practices (NA)
+    </td>
+    <td> <!-- Week 10 - Tuesday Morning Module -->
+      Lightning Talk Prep + Interviews (team)
+    </td>
+    <td> <!-- Week 10 - Wednesday Morning Module -->
+      Project 3      (team)
+    </td>
+    <td> <!-- Week 10 - Thursday Morning Module -->
+      Project 3      (team)
+    </td>
+    <td> <!-- Week 10 - Friday Morning Module -->
+     Project 3
+      (team)
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Module 2</strong></td>
+    <td> <!-- Week 10 - Monday Afternoon Module -->
+      
+Rangular (JL)
+
+    </td>
+    <td> <!-- Week 10 - Tuesday Afternoon Module -->
+           Lightning Talks
+(team)
+    </td>
+    <td> <!-- Week 10 - Wednesday Afternoon Module -->
+     Project 3
+      (team)
+    </td>
+    <td> <!-- Week 10 - Thursday Afternoon Module -->
+     Project 3
+      (team)
+    </td>
+    <td> <!-- Week 10 - Friday Afternoon / Weekend Lab -->
+     Project 3
+      (team)
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Homework</strong></td>
+    <td>      Something
+      (team)    </td>
+    <td> <!-- Week 10 - Tuesday Homework -->
+         Something
+      (team)
+    </td>
+    <td>      
+         Project 3
+
+      (team)
+    </td>
+    <td> <!-- Week 10 - Thursday Homework -->
+     Project 3
+
+      (team)
+    </td>
+    <td> <!-- Week 10 - Friday -->
+     Project 3
+
+      (team)    </td>
+  </tr>
+</table>
+
 ## Week 10 - Project 2
 <table>
   <tr>
