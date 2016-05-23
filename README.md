@@ -16,7 +16,7 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
   <tr>
     <td><strong>Drills</strong></td>
     <td> <!-- Week 10 - Monday Drill -->
-      Happy Tree People
+      <a href="https://github.com/sf-wdi-27-28/tree-week-27/tree/master/intro">Happy Tree People</a>
       (Justin)
     </td>
     <td> <!-- Week 10 - Tuesday Drill -->
