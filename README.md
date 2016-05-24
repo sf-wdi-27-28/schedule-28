@@ -29,10 +29,10 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
 
     </td>
     <td> <!-- Week 10 - Thursday Drill -->
-      Project 3      (team)
+      <a href="https://github.com/sf-wdi-27-28/project-03-28">Project 3</a>
     </td>
     <td> <!-- Week 10 - Friday Review -->
-     Project 3      (team)
+     <a href="https://github.com/sf-wdi-27-28/project-03-28">Project 3</a>
     </td>
   </tr>
   <tr>
@@ -44,13 +44,13 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
       <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-to/lightning-talks.md">Lightning Talk Prep</a> (team)
     </td>
     <td> <!-- Week 10 - Wednesday Morning Module -->
-      Project 3      (team)
+      <a href="https://github.com/sf-wdi-27-28/project-03-28">Project 3</a>
     </td>
     <td> <!-- Week 10 - Thursday Morning Module -->
-      Project 3      (team)
+      <a href="https://github.com/sf-wdi-27-28/project-03-28">Project 3</a>
     </td>
     <td> <!-- Week 10 - Friday Morning Module -->
-     Project 3
+     <a href="https://github.com/sf-wdi-27-28/project-03-28">Project 3</a>
       (team)
     </td>
   </tr>
@@ -64,15 +64,14 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
 (team)
     </td>
     <td> <!-- Week 10 - Wednesday Afternoon Module -->
-     Project 3
-      (team)
+	<a href="https://github.com/sf-wdi-27-28/project-03-28">Project 3</a>      (team)
     </td>
     <td> <!-- Week 10 - Thursday Afternoon Module -->
-     Project 3
+     <a href="https://github.com/sf-wdi-27-28/project-03-28">Project 3</a>
       (team)
     </td>
     <td> <!-- Week 10 - Friday Afternoon / Weekend Lab -->
-     Project 3
+     <a href="https://github.com/sf-wdi-27-28/project-03-28">Project 3</a>
       (team)
     </td>
   </tr>
@@ -85,17 +84,17 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
       (team)
     </td>
     <td>      
-         Project 3
+         <a href="https://github.com/sf-wdi-27-28/project-03-28">Project 3</a>
 
       (team)
     </td>
     <td> <!-- Week 10 - Thursday Homework -->
-     Project 3
+     <a href="https://github.com/sf-wdi-27-28/project-03-28">Project 3</a>
 
       (team)
     </td>
     <td> <!-- Week 10 - Friday -->
-     Project 3
+     <a href="https://github.com/sf-wdi-27-28/project-03-28">Project 3</a>
 
       (team)    </td>
   </tr>
