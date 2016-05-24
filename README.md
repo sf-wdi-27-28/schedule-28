@@ -20,7 +20,7 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
       (Justin)
     </td>
     <td> <!-- Week 10 - Tuesday Drill -->
-     Dictionary Trees!
+     <a href-"https://github.com/sf-wdi-27-28/28-Tries">Dictionary Trees!</a>
       (Justin)
     </td>
     <td> <!-- Week 10 - Wednesday Drill -->
