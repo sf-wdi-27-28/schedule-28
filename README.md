@@ -41,7 +41,7 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
       Rails/JS best practices (NA)
     </td>
     <td> <!-- Week 10 - Tuesday Morning Module -->
-      <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-to/lightning-talks.md">Lightning Talk Prep</a> + Interviews (team)
+      <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-to/lightning-talks.md">Lightning Talk Prep</a> (team)
     </td>
     <td> <!-- Week 10 - Wednesday Morning Module -->
       Project 3      (team)
