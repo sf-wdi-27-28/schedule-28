@@ -24,9 +24,8 @@ How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-t
       (Justin)
     </td>
     <td> <!-- Week 10 - Wednesday Drill -->
-     Hash Maps!
+     <a href="https://github.com/SF-WDI-LABS/hash-map-lab">Hash Maps!</a>
       (Justin)
-
     </td>
     <td> <!-- Week 10 - Thursday Drill -->
       <a href="https://github.com/sf-wdi-27-28/project-03-28">Project 3</a>
