@@ -3,6 +3,90 @@
 
 How To: <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-to/submit-homework.md" target="blank">Submit Homework</a> ● <a href="https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-to/request-a-code-review.md" target="blank">Request a Code Review</a>
 
+## Week 12  - Project 3 + GRADUATION  
+<table>
+  <tr>
+    <th><!-- BLANK --></th>
+    <th>Monday</th>
+    <th>Tuesday</th>
+    <th>Wednesday</th>
+    <th>Thursday</th>
+    <th>Friday</th>
+  </tr>
+  <tr>
+    <td><strong>Drills</strong></td>
+    <td> <!-- Week 12 - Monday Drill -->
+      NO CLASS
+    </td>
+    <td> <!-- Week 12 - Tuesday Drill -->
+      <a href="https://github.com/sf-wdi-27-28/project-03-28">Project 3</a>
+    </td>
+    <td> <!-- Week 12 - Wednesday Drill -->
+      <a href="https://github.com/sf-wdi-27-28/project-03-28">Project 3</a>
+    </td>
+    <td> <!-- Week 12 - Thursday Drill -->
+      <a href="https://github.com/sf-wdi-27-28/project-03-28">Project 3</a>
+    </td>
+    <td> <!-- Week 12 - Friday Review -->
+      <a href="https://github.com/sf-wdi-27-28/project-03-28">Project 3</a> Presentations
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Module 1</strong></td>
+    <td> <!-- Week 12 - Monday Morning Module -->
+      NO CLASS
+    </td>
+    <td> <!-- Week 12 - Tuesday Morning Module -->
+      <a href="https://github.com/sf-wdi-27-28/project-03-28">Project 3</a>
+    </td>
+    <td> <!-- Week 12 - Wednesday Morning Module -->
+      <a href="https://github.com/sf-wdi-27-28/project-03-28">Project 3</a>
+    </td>
+    <td> <!-- Week 12 - Thursday Morning Module -->
+      <a href="https://github.com/sf-wdi-27-28/project-03-28">Project 3</a>
+    </td>
+    <td> <!-- Week 12 - Friday Morning Module -->
+      <a href="https://github.com/sf-wdi-27-28/project-03-28">Project 3</a> Presentations
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Module 2</strong></td>
+    <td> <!-- Week 12 - Monday Afternoon Module -->
+      NO CLASS
+    </td>
+    <td> <!-- Week 12 - Tuesday Afternoon Module -->
+      <a href="https://github.com/sf-wdi-27-28/project-03-28">Project 3</a>
+    </td>
+    <td> <!-- Week 12 - Wednesday Afternoon Module -->
+      <a href="https://github.com/sf-wdi-27-28/project-03-28">Project 3</a>
+    </td>
+    <td> <!-- Week 12 - Thursday Afternoon Module -->
+      <a href="https://github.com/sf-wdi-27-28/project-03-28">Project 3</a>
+    </td>
+    <td> <!-- Week 12 - Friday Afternoon / Weekend Lab -->
+      GRADUATION!
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Homework</strong></td>
+    <td> <!-- Week 12 - Monday Homework -->
+      NO CLASS
+    </td>
+    <td> <!-- Week 12 - Tuesday Homework -->
+      <a href="https://github.com/sf-wdi-27-28/project-03-28">Project 3</a>
+    </td>
+    <td> <!-- Week 12 - Wednesday Homework -->
+      <a href="https://github.com/sf-wdi-27-28/project-03-28">Project 3</a>
+    </td>
+    <td> <!-- Week 12 - Thursday Homework -->
+      <a href="https://github.com/sf-wdi-27-28/project-03-28">Project 3</a>
+    </td>
+    <td> <!-- Week 12 - Friday -->
+      <!-- BLANK -->
+    </td>
+  </tr>
+</table>
+
 ## Week 11 - Ephemera & Project 3
 <table>
   <tr>
